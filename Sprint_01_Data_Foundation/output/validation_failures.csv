@@ -1,0 +1,1481 @@
+rule_id,table_name,row_number,company_id,field,value,severity,issue
+DQ-03,profitandloss,1165.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1166.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1167.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1168.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1169.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1170.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1171.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1172.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1173.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1174.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1175.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1176.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1177.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1178.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1179.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1180.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1181.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1182.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1183.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1184.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1185.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1186.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1187.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1188.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1189.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1190.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1191.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1192.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1193.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1194.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1195.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1196.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1197.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1198.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1199.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1200.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1201.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1202.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1203.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1204.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1205.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1206.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1207.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1208.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1209.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1210.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1211.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1212.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1213.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1214.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1215.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1216.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1217.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1218.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1219.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1220.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1221.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1222.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1223.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1224.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1225.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1226.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1227.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1228.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1229.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1230.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1231.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1232.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1233.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1234.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1235.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1236.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1237.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1238.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1239.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1240.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1241.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1242.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1243.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1244.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1245.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1246.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1247.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1248.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1249.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1250.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1251.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1252.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1253.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1254.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1255.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1256.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1257.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1258.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1259.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1260.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1261.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1262.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,profitandloss,1263.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1034.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1035.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1036.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1037.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1038.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1039.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1040.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1041.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1042.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1043.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1044.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1045.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1046.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1060.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1061.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1062.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1063.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1064.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1065.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1066.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1067.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1068.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1069.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1070.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1071.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1072.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1073.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1074.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1075.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1076.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1077.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1078.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1079.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1080.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1081.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1082.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1083.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1084.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1085.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1086.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1087.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1088.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1089.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1090.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1091.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1092.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1093.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1119.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1120.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1121.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1122.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1123.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1124.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1125.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1126.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1127.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1128.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1129.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1130.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1131.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1132.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1133.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1134.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1135.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1136.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1137.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1138.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1139.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1140.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1141.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1142.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1143.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1157.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1158.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1159.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1160.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1161.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1162.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1163.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1164.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1165.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1166.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1167.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1168.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,balancesheet,1169.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,127.0,,company_id,AGTL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,128.0,,company_id,AGTL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,129.0,,company_id,AGTL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,130.0,,company_id,AGTL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,131.0,,company_id,AGTL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,132.0,,company_id,AGTL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,133.0,,company_id,AGTL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1099.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1100.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1101.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1102.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1103.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1104.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1105.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1106.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1107.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1108.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1109.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1110.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1111.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1112.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1113.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1114.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1115.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1116.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1117.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1118.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1119.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1120.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1121.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1122.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1123.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1124.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1125.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1126.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1127.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1128.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1129.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1130.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1131.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1132.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1133.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1134.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1135.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1136.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1137.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1138.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1139.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1140.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1141.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1142.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1143.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1144.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1145.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1146.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1147.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1148.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1149.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1150.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1151.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1152.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1153.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1154.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1155.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1156.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1157.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1158.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1159.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1160.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1161.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1162.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1163.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1164.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1165.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1166.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1167.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1168.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1169.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1170.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1171.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1172.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1173.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1174.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1175.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1176.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1177.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1178.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1179.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1180.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1181.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1182.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1183.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1184.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1185.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1186.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,cashflow,1187.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,analysis,9.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,analysis,10.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,analysis,11.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,analysis,13.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1458.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1459.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1460.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1461.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1462.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1463.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1464.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1465.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1466.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1467.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1468.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1469.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1470.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1471.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1472.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1473.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1474.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1475.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1476.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1477.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1478.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1479.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1480.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1481.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1482.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1483.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1484.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1485.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1486.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1487.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1488.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1489.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1490.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1491.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1492.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1493.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1494.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1495.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1496.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1497.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1498.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1499.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1500.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1501.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1502.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1503.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1504.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1505.0,,company_id,UNITDSPR,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1506.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1507.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1508.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1509.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1510.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1511.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1512.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1513.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1514.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1515.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1516.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1517.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1518.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1519.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1520.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1521.0,,company_id,VBL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1522.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1523.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1524.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1525.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1526.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1527.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1528.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1529.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1530.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1531.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1532.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1533.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1534.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1535.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1536.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1537.0,,company_id,VEDL,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1538.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1539.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1540.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1541.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1542.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1543.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1544.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1545.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1546.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1547.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1548.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1549.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1550.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1551.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1552.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1553.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1554.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1555.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1556.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1557.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1558.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1559.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1560.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1561.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1562.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1563.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1564.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1565.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1566.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1567.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1568.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1569.0,,company_id,ZOMATO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1570.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1571.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1572.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1573.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1574.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1575.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1576.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1577.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1578.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1579.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1580.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1581.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1582.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1583.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1584.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,documents,1585.0,,company_id,ZYDUSLIFE,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,prosandcons,12.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,prosandcons,13.0,,company_id,WIPRO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1149.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1150.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1151.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1152.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1153.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1154.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1155.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1156.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1157.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1158.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1159.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1160.0,,company_id,ULTRACEMCO,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1161.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1162.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1163.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1164.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1165.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1166.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1167.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1168.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1169.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1170.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1171.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-03,financial_ratios,1172.0,,company_id,UNIONBANK,WARNING,Company reference absent from master; row preserved in quarantine table
+DQ-05,profitandloss,24.0,,opm_percentage,30.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,147.0,,opm_percentage,1353.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,148.0,,opm_percentage,2307.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,149.0,,opm_percentage,3097.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,150.0,,opm_percentage,3466.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,151.0,,opm_percentage,-5715.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,152.0,,opm_percentage,-10277.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,153.0,,opm_percentage,-5447.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,154.0,,opm_percentage,-9859.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,155.0,,opm_percentage,-2510.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,156.0,,opm_percentage,3170.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,157.0,,opm_percentage,13857.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,158.0,,opm_percentage,11952.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,159.0,,opm_percentage,9061.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,186.0,,opm_percentage,1367.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,187.0,,opm_percentage,1986.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,188.0,,opm_percentage,2867.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,189.0,,opm_percentage,3935.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,190.0,,opm_percentage,6310.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,191.0,,opm_percentage,7608.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,192.0,,opm_percentage,6314.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,193.0,,opm_percentage,9906.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,194.0,,opm_percentage,16018.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,195.0,,opm_percentage,19987.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,196.0,,opm_percentage,21417.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,197.0,,opm_percentage,1006.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,198.0,,opm_percentage,809.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,199.0,,opm_percentage,902.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,200.0,,opm_percentage,-11700.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,201.0,,opm_percentage,-4372.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,202.0,,opm_percentage,-9197.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,203.0,,opm_percentage,-5414.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,204.0,,opm_percentage,-11728.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,205.0,,opm_percentage,-6957.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,206.0,,opm_percentage,-2948.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,207.0,,opm_percentage,6329.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,208.0,,opm_percentage,4102.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,209.0,,opm_percentage,3526.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,288.0,,opm_percentage,655.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,289.0,,opm_percentage,-672.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,290.0,,opm_percentage,-621.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,291.0,,opm_percentage,-8008.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,292.0,,opm_percentage,-5775.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,293.0,,opm_percentage,-13350.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,294.0,,opm_percentage,-11590.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,295.0,,opm_percentage,-12867.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,296.0,,opm_percentage,-18367.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,297.0,,opm_percentage,-13657.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,298.0,,opm_percentage,-9877.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,299.0,,opm_percentage,-7745.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,300.0,,opm_percentage,-8985.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,301.0,,opm_percentage,472.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,302.0,,opm_percentage,578.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,303.0,,opm_percentage,696.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,304.0,,opm_percentage,899.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,305.0,,opm_percentage,1143.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,306.0,,opm_percentage,1451.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,307.0,,opm_percentage,1888.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,308.0,,opm_percentage,1699.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,309.0,,opm_percentage,2094.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,310.0,,opm_percentage,2924.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,311.0,,opm_percentage,3515.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,312.0,,opm_percentage,4548.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,313.0,,opm_percentage,5175.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,314.0,,opm_percentage,2214.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,315.0,,opm_percentage,2147.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,316.0,,opm_percentage,2163.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,317.0,,opm_percentage,2480.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,318.0,,opm_percentage,2496.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,319.0,,opm_percentage,2826.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,320.0,,opm_percentage,3097.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,321.0,,opm_percentage,3206.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,322.0,,opm_percentage,4252.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,323.0,,opm_percentage,4553.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,324.0,,opm_percentage,5027.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,325.0,,opm_percentage,6291.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,326.0,,opm_percentage,6906.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,327.0,,opm_percentage,18087.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,328.0,,opm_percentage,17766.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,329.0,,opm_percentage,17343.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,330.0,,opm_percentage,18714.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,331.0,,opm_percentage,12448.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,332.0,,opm_percentage,9288.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,333.0,,opm_percentage,25007.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,334.0,,opm_percentage,21581.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,335.0,,opm_percentage,18628.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,336.0,,opm_percentage,24721.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,337.0,,opm_percentage,44232.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,338.0,,opm_percentage,47971.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,339.0,,opm_percentage,46610.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,496.0,,opm_percentage,3534.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,497.0,,opm_percentage,5602.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,498.0,,opm_percentage,7214.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,499.0,,opm_percentage,9037.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,500.0,,opm_percentage,11374.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,501.0,,opm_percentage,13374.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,502.0,,opm_percentage,16592.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,503.0,,opm_percentage,14593.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,504.0,,opm_percentage,16848.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,505.0,,opm_percentage,20795.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,506.0,,opm_percentage,29932.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,507.0,,opm_percentage,-44685.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,508.0,,opm_percentage,-57587.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,509.0,,opm_percentage,525.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,510.0,,opm_percentage,605.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,511.0,,opm_percentage,874.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,512.0,,opm_percentage,953.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,513.0,,opm_percentage,972.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,514.0,,opm_percentage,1074.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,515.0,,opm_percentage,1215.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,516.0,,opm_percentage,1141.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,517.0,,opm_percentage,1235.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,518.0,,opm_percentage,778.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,519.0,,opm_percentage,80.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,520.0,,opm_percentage,531.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,521.0,,opm_percentage,725.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,522.0,,opm_percentage,3553.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,523.0,,opm_percentage,3520.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,524.0,,opm_percentage,4424.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,525.0,,opm_percentage,4585.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,526.0,,opm_percentage,5334.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,527.0,,opm_percentage,5025.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,528.0,,opm_percentage,4070.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,529.0,,opm_percentage,4058.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,530.0,,opm_percentage,3256.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,531.0,,opm_percentage,4099.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,532.0,,opm_percentage,5235.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,533.0,,opm_percentage,5561.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,534.0,,opm_percentage,7699.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,535.0,,opm_percentage,8024.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,536.0,,opm_percentage,8844.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,537.0,,opm_percentage,7778.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,538.0,,opm_percentage,12317.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,539.0,,opm_percentage,13695.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,540.0,,opm_percentage,15511.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,541.0,,opm_percentage,14306.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,542.0,,opm_percentage,17559.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,543.0,,opm_percentage,28347.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,544.0,,opm_percentage,22666.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,545.0,,opm_percentage,23872.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,546.0,,opm_percentage,27931.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,547.0,,opm_percentage,4220.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,548.0,,opm_percentage,4759.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,549.0,,opm_percentage,5412.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,550.0,,opm_percentage,5910.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,551.0,,opm_percentage,6328.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,552.0,,opm_percentage,7499.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,553.0,,opm_percentage,8880.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,554.0,,opm_percentage,9861.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,555.0,,opm_percentage,11626.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,556.0,,opm_percentage,12857.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,557.0,,opm_percentage,14147.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,558.0,,opm_percentage,14659.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,559.0,,opm_percentage,14759.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,560.0,,opm_percentage,-15085.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,561.0,,opm_percentage,-13084.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,562.0,,opm_percentage,-16120.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,563.0,,opm_percentage,-26955.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,564.0,,opm_percentage,-37737.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,565.0,,opm_percentage,-44906.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,566.0,,opm_percentage,-50971.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,567.0,,opm_percentage,-45190.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,568.0,,opm_percentage,-44805.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,569.0,,opm_percentage,-26558.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,570.0,,opm_percentage,-17341.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,571.0,,opm_percentage,-14152.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,572.0,,opm_percentage,-31575.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,573.0,,opm_percentage,-178.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,574.0,,opm_percentage,-225.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,575.0,,opm_percentage,-221.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,576.0,,opm_percentage,764.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,577.0,,opm_percentage,919.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,578.0,,opm_percentage,-262.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,579.0,,opm_percentage,1669.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,580.0,,opm_percentage,1772.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,581.0,,opm_percentage,2072.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,582.0,,opm_percentage,1016.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,583.0,,opm_percentage,1264.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,584.0,,opm_percentage,2577.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,585.0,,opm_percentage,3363.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,586.0,,opm_percentage,745.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,587.0,,opm_percentage,1504.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,588.0,,opm_percentage,1655.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,589.0,,opm_percentage,1842.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,590.0,,opm_percentage,1806.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,591.0,,opm_percentage,1771.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,592.0,,opm_percentage,541.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,593.0,,opm_percentage,-319.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,594.0,,opm_percentage,-390.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,595.0,,opm_percentage,-2163.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,596.0,,opm_percentage,-1757.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,597.0,,opm_percentage,-1829.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,598.0,,opm_percentage,321.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,599.0,,opm_percentage,286.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,600.0,,opm_percentage,335.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,601.0,,opm_percentage,288.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,602.0,,opm_percentage,329.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,603.0,,opm_percentage,379.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,604.0,,opm_percentage,942.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,605.0,,opm_percentage,-437.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,606.0,,opm_percentage,-553.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,607.0,,opm_percentage,-2469.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,608.0,,opm_percentage,-839.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,609.0,,opm_percentage,2067.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,610.0,,opm_percentage,2978.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,611.0,,opm_percentage,1323.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,688.0,,opm_percentage,88.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,717.0,,opm_percentage,-1789.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,718.0,,opm_percentage,-1379.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,719.0,,opm_percentage,-3366.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,720.0,,opm_percentage,-2263.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,721.0,,opm_percentage,-3965.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,722.0,,opm_percentage,-4141.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,723.0,,opm_percentage,-5114.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,724.0,,opm_percentage,-5005.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,725.0,,opm_percentage,-9958.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,726.0,,opm_percentage,-8512.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,727.0,,opm_percentage,-5746.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,728.0,,opm_percentage,-13382.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,729.0,,opm_percentage,-14146.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1033.0,,opm_percentage,28.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1264.0,,opm_percentage,855.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1265.0,,opm_percentage,433.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1266.0,,opm_percentage,1904.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1267.0,,opm_percentage,3164.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1268.0,,opm_percentage,2219.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1269.0,,opm_percentage,3030.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1270.0,,opm_percentage,-151.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1271.0,,opm_percentage,4069.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1272.0,,opm_percentage,2.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1273.0,,opm_percentage,558.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1274.0,,opm_percentage,6521.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1275.0,,opm_percentage,16331.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-05,profitandloss,1276.0,,opm_percentage,15908.0,WARNING,Source OPM differs from calculated OPM by more than 1 percentage point
+DQ-06,profitandloss,14.0,,sales,0,WARNING,Sales are zero or negative
+DQ-07,profitandloss,13.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,25.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,38.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,47.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,60.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,73.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,86.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,99.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,112.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,125.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,133.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,146.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,159.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,172.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,185.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,196.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,209.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,222.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,235.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,248.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,261.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,274.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,287.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,300.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,313.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,326.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,339.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,352.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,365.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,378.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,391.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,404.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,417.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,430.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,443.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,456.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,469.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,482.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,495.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,508.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,521.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,533.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,546.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,559.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,572.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,585.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,598.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,611.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,624.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,637.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,648.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,661.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,674.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,687.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,690.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,703.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,716.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,729.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,736.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,749.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,762.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,775.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,788.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,801.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,814.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,827.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,840.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,853.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,866.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,879.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,892.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,905.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,918.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,931.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,944.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,957.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,970.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,983.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,996.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1009.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1034.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1047.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1060.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1073.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1086.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1099.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1112.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1125.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1138.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1151.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1164.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1177.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1190.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1203.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1216.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1229.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1242.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1250.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1263.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-07,profitandloss,1276.0,,year,None,WARNING,Period is non-annual or unrecognised; original retained in source_year
+DQ-09,cashflow,1096.0,,net_cash_flow,532.0,WARNING,Net cash flow differs from CFO+CFI+CFF by more than 10
+DQ-11,profitandloss,13.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,25.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,27.0,,tax_percentage,-64.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,38.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,39.0,,tax_percentage,-75.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,40.0,,tax_percentage,-35.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,41.0,,tax_percentage,-19.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,47.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,60.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,73.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,75.0,,tax_percentage,-79.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,77.0,,tax_percentage,-47.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,78.0,,tax_percentage,-1.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,84.0,,tax_percentage,-40.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,86.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,93.0,,tax_percentage,-2.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,99.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,105.0,,tax_percentage,65.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,112.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,125.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,133.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,146.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,152.0,,tax_percentage,-99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,154.0,,tax_percentage,67.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,159.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,172.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,185.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,196.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,200.0,,tax_percentage,-19.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,202.0,,tax_percentage,-9.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,204.0,,tax_percentage,-99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,205.0,,tax_percentage,77.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,209.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,211.0,,tax_percentage,62.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,216.0,,tax_percentage,-99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,217.0,,tax_percentage,-28.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,218.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,222.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,235.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,239.0,,tax_percentage,-39.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,241.0,,tax_percentage,64.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,243.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,244.0,,tax_percentage,-25.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,247.0,,tax_percentage,-16.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,248.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,261.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,274.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,287.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,291.0,,tax_percentage,-13.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,293.0,,tax_percentage,-36.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,294.0,,tax_percentage,-99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,300.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,313.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,326.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,339.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,352.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,365.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,367.0,,tax_percentage,-16.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,373.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,378.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,391.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,399.0,,tax_percentage,-7.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,404.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,417.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,430.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,437.0,,tax_percentage,-12.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,442.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,443.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,451.0,,tax_percentage,-1.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,456.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,469.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,482.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,495.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,508.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,520.0,,tax_percentage,-61.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,521.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,533.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,536.0,,tax_percentage,75.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,537.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,546.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,559.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,572.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,585.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,598.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,611.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,624.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,632.0,,tax_percentage,-74.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,637.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,648.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,649.0,,tax_percentage,64.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,661.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,674.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,677.0,,tax_percentage,-6.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,678.0,,tax_percentage,-22.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,679.0,,tax_percentage,-17.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,680.0,,tax_percentage,-13.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,681.0,,tax_percentage,-14.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,687.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,690.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,696.0,,tax_percentage,75.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,703.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,705.0,,tax_percentage,70.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,707.0,,tax_percentage,-80.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,711.0,,tax_percentage,-30.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,716.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,729.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,730.0,,tax_percentage,68.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,731.0,,tax_percentage,80.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,732.0,,tax_percentage,76.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,733.0,,tax_percentage,66.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,736.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,745.0,,tax_percentage,-44.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,747.0,,tax_percentage,-8.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,749.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,762.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,775.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,783.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,788.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,801.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,809.0,,tax_percentage,-5.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,814.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,817.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,819.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,822.0,,tax_percentage,95.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,825.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,827.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,848.0,,tax_percentage,-2.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,850.0,,tax_percentage,-17.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,857.0,,tax_percentage,-2.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,860.0,,tax_percentage,-25.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,905.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,909.0,,tax_percentage,-31.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,911.0,,tax_percentage,-37.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,912.0,,tax_percentage,-35.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,918.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,925.0,,tax_percentage,-10.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,931.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,944.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,957.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,970.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,975.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,976.0,,tax_percentage,-66.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,983.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,986.0,,tax_percentage,-6.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,996.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1009.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1034.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1038.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1047.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1054.0,,tax_percentage,-8.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1059.0,,tax_percentage,-14.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1060.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1061.0,,tax_percentage,92.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1062.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1063.0,,tax_percentage,72.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1073.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1074.0,,tax_percentage,78.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1076.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1077.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1078.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1081.0,,tax_percentage,-99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1085.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1086.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1099.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1112.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1125.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1138.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1139.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1140.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1147.0,,tax_percentage,-12.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1148.0,,tax_percentage,69.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1151.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1164.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1172.0,,tax_percentage,-11.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1177.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1182.0,,tax_percentage,-58.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1183.0,,tax_percentage,-21.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1184.0,,tax_percentage,-25.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1185.0,,tax_percentage,-27.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1186.0,,tax_percentage,-22.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1190.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1191.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1194.0,,tax_percentage,61.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1203.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1204.0,,tax_percentage,-20.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1205.0,,tax_percentage,-11.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1206.0,,tax_percentage,99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1216.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1217.0,,tax_percentage,-25.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1218.0,,tax_percentage,-9.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1220.0,,tax_percentage,-37.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1224.0,,tax_percentage,-43.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1228.0,,tax_percentage,63.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1229.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1242.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1248.0,,tax_percentage,-4.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1249.0,,tax_percentage,-21.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1250.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1263.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1270.0,,tax_percentage,-99.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1271.0,,tax_percentage,-10.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1275.0,,tax_percentage,-2.0,WARNING,Tax percentage outside 0-60
+DQ-11,profitandloss,1276.0,,tax_percentage,nan,WARNING,Tax percentage outside 0-60
+DQ-12,profitandloss,216.0,,dividend_payout,244.0,WARNING,Dividend payout exceeds 200%
+DQ-12,profitandloss,283.0,,dividend_payout,204.0,WARNING,Dividend payout exceeds 200%
+DQ-12,profitandloss,783.0,,dividend_payout,205.0,WARNING,Dividend payout exceeds 200%
+DQ-12,profitandloss,975.0,,dividend_payout,859.0,WARNING,Dividend payout exceeds 200%
+DQ-12,profitandloss,1063.0,,dividend_payout,210.0,WARNING,Dividend payout exceeds 200%
+DQ-12,profitandloss,1227.0,,dividend_payout,357.0,WARNING,Dividend payout exceeds 200%
+DQ-12,profitandloss,1228.0,,dividend_payout,259.0,WARNING,Dividend payout exceeds 200%
+DQ-13,documents,46.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,47.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,48.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,255.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,256.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,259.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,262.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,266.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,269.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,270.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,271.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,272.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,276.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,279.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,286.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,287.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,288.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,298.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,299.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,300.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,301.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,302.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,303.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,304.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,310.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,311.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,312.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,315.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,316.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,317.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,318.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,319.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,320.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,323.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,326.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,329.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,330.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,335.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,336.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,439.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,440.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,486.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,558.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,831.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,832.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,833.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,848.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,849.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,1043.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,1295.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,1296.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-13,documents,1297.0,,annual_report,nan,WARNING,Annual report URL is missing
+DQ-14,profitandloss,696.0,,eps,0.0,WARNING,EPS is non-positive while net profit is positive
+DQ-14,profitandloss,1061.0,,eps,0.0,WARNING,EPS is non-positive while net profit is positive
+DQ-14,profitandloss,1062.0,,eps,-1.0,WARNING,EPS is non-positive while net profit is positive
+DQ-14,profitandloss,1208.0,,eps,0.0,WARNING,EPS is non-positive while net profit is positive
+DQ-14,profitandloss,1249.0,,eps,0.0,WARNING,EPS is non-positive while net profit is positive
+DQ-15,profitandloss,48.0,,company_id/year,ADANIPORTS/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,49.0,,company_id/year,ADANIPORTS/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,50.0,,company_id/year,ADANIPORTS/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,51.0,,company_id/year,ADANIPORTS/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,52.0,,company_id/year,ADANIPORTS/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,53.0,,company_id/year,ADANIPORTS/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,54.0,,company_id/year,ADANIPORTS/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,55.0,,company_id/year,ADANIPORTS/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,56.0,,company_id/year,ADANIPORTS/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,57.0,,company_id/year,ADANIPORTS/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,58.0,,company_id/year,ADANIPORTS/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,59.0,,company_id/year,ADANIPORTS/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,61.0,,company_id/year,ADANIPORTS/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,62.0,,company_id/year,ADANIPORTS/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,63.0,,company_id/year,ADANIPORTS/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,64.0,,company_id/year,ADANIPORTS/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,65.0,,company_id/year,ADANIPORTS/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,66.0,,company_id/year,ADANIPORTS/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,67.0,,company_id/year,ADANIPORTS/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,68.0,,company_id/year,ADANIPORTS/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,69.0,,company_id/year,ADANIPORTS/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,70.0,,company_id/year,ADANIPORTS/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,71.0,,company_id/year,ADANIPORTS/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,profitandloss,72.0,,company_id/year,ADANIPORTS/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,100.0,,company_id/year,ASIANPAINT/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,101.0,,company_id/year,ASIANPAINT/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,102.0,,company_id/year,ASIANPAINT/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,103.0,,company_id/year,ASIANPAINT/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,104.0,,company_id/year,ASIANPAINT/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,105.0,,company_id/year,ASIANPAINT/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,106.0,,company_id/year,ASIANPAINT/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,107.0,,company_id/year,ASIANPAINT/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,108.0,,company_id/year,ASIANPAINT/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,109.0,,company_id/year,ASIANPAINT/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,110.0,,company_id/year,ASIANPAINT/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,111.0,,company_id/year,ASIANPAINT/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,112.0,,company_id/year,ASIANPAINT/2024-09,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,113.0,,company_id/year,ASIANPAINT/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,114.0,,company_id/year,ASIANPAINT/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,115.0,,company_id/year,ASIANPAINT/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,116.0,,company_id/year,ASIANPAINT/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,117.0,,company_id/year,ASIANPAINT/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,118.0,,company_id/year,ASIANPAINT/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,119.0,,company_id/year,ASIANPAINT/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,120.0,,company_id/year,ASIANPAINT/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,121.0,,company_id/year,ASIANPAINT/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,122.0,,company_id/year,ASIANPAINT/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,123.0,,company_id/year,ASIANPAINT/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,124.0,,company_id/year,ASIANPAINT/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,125.0,,company_id/year,ASIANPAINT/2024-09,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,909.0,,company_id/year,PNB/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,910.0,,company_id/year,PNB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,911.0,,company_id/year,PNB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,912.0,,company_id/year,PNB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,913.0,,company_id/year,PNB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,914.0,,company_id/year,PNB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,915.0,,company_id/year,PNB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,916.0,,company_id/year,PNB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,917.0,,company_id/year,PNB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,918.0,,company_id/year,PNB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,919.0,,company_id/year,PNB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,920.0,,company_id/year,PNB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,921.0,,company_id/year,PNB/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,922.0,,company_id/year,PNB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,923.0,,company_id/year,PNB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,924.0,,company_id/year,PNB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,925.0,,company_id/year,PNB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,926.0,,company_id/year,PNB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,927.0,,company_id/year,PNB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,928.0,,company_id/year,PNB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,929.0,,company_id/year,PNB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,930.0,,company_id/year,PNB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,931.0,,company_id/year,PNB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,932.0,,company_id/year,PNB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,933.0,,company_id/year,PNB/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,934.0,,company_id/year,PNB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,935.0,,company_id/year,PNB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,936.0,,company_id/year,PNB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,937.0,,company_id/year,PNB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,938.0,,company_id/year,PNB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,939.0,,company_id/year,PNB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,940.0,,company_id/year,PNB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,941.0,,company_id/year,PNB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,942.0,,company_id/year,PNB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,943.0,,company_id/year,PNB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,944.0,,company_id/year,PNB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,945.0,,company_id/year,PNB/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,946.0,,company_id/year,PNB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,947.0,,company_id/year,PNB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,948.0,,company_id/year,PNB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,949.0,,company_id/year,PNB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,950.0,,company_id/year,PNB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,951.0,,company_id/year,PNB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,952.0,,company_id/year,PNB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,953.0,,company_id/year,PNB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,954.0,,company_id/year,PNB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,955.0,,company_id/year,PNB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,956.0,,company_id/year,PNB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,957.0,,company_id/year,PNB/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,958.0,,company_id/year,PNB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,959.0,,company_id/year,PNB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,960.0,,company_id/year,PNB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,961.0,,company_id/year,PNB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,962.0,,company_id/year,PNB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,963.0,,company_id/year,PNB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,964.0,,company_id/year,PNB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,965.0,,company_id/year,PNB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,966.0,,company_id/year,PNB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,967.0,,company_id/year,PNB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,968.0,,company_id/year,PNB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,969.0,,company_id/year,POWERGRID/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,970.0,,company_id/year,POWERGRID/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,971.0,,company_id/year,POWERGRID/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,972.0,,company_id/year,POWERGRID/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,973.0,,company_id/year,POWERGRID/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,974.0,,company_id/year,POWERGRID/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,975.0,,company_id/year,POWERGRID/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,976.0,,company_id/year,POWERGRID/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,977.0,,company_id/year,POWERGRID/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,978.0,,company_id/year,POWERGRID/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,979.0,,company_id/year,POWERGRID/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,980.0,,company_id/year,POWERGRID/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,981.0,,company_id/year,POWERGRID/2024-09,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,982.0,,company_id/year,POWERGRID/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,983.0,,company_id/year,POWERGRID/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,984.0,,company_id/year,POWERGRID/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,985.0,,company_id/year,POWERGRID/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,986.0,,company_id/year,POWERGRID/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,987.0,,company_id/year,POWERGRID/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,988.0,,company_id/year,POWERGRID/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,989.0,,company_id/year,POWERGRID/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,990.0,,company_id/year,POWERGRID/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,991.0,,company_id/year,POWERGRID/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,992.0,,company_id/year,POWERGRID/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,993.0,,company_id/year,POWERGRID/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,994.0,,company_id/year,POWERGRID/2024-09,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1222.0,,company_id/year,TECHM/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1223.0,,company_id/year,TECHM/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1224.0,,company_id/year,TECHM/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1225.0,,company_id/year,TECHM/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1226.0,,company_id/year,TECHM/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1227.0,,company_id/year,TECHM/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1228.0,,company_id/year,TECHM/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1229.0,,company_id/year,TECHM/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1230.0,,company_id/year,TECHM/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1231.0,,company_id/year,TECHM/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1232.0,,company_id/year,TECHM/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1233.0,,company_id/year,TECHM/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1234.0,,company_id/year,TECHM/2024-09,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1274.0,,company_id/year,TECHM/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1275.0,,company_id/year,TECHM/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1276.0,,company_id/year,TECHM/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1277.0,,company_id/year,TECHM/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1278.0,,company_id/year,TECHM/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1279.0,,company_id/year,TECHM/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1280.0,,company_id/year,TECHM/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1281.0,,company_id/year,TECHM/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1282.0,,company_id/year,TECHM/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1283.0,,company_id/year,TECHM/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1284.0,,company_id/year,TECHM/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1285.0,,company_id/year,TECHM/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,balancesheet,1286.0,,company_id/year,TECHM/2024-09,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1.0,,company_id/year,TCS/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,2.0,,company_id/year,TCS/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,3.0,,company_id/year,TCS/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,4.0,,company_id/year,TCS/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,5.0,,company_id/year,TCS/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,6.0,,company_id/year,TCS/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,7.0,,company_id/year,TCS/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,8.0,,company_id/year,TCS/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,9.0,,company_id/year,TCS/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,10.0,,company_id/year,TCS/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,11.0,,company_id/year,TCS/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,12.0,,company_id/year,TCS/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,14.0,,company_id/year,ABB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,15.0,,company_id/year,ABB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,16.0,,company_id/year,ABB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,17.0,,company_id/year,ABB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,18.0,,company_id/year,ABB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,19.0,,company_id/year,ABB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,20.0,,company_id/year,ABB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,21.0,,company_id/year,ABB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,22.0,,company_id/year,ABB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,23.0,,company_id/year,ABB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,24.0,,company_id/year,ABB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,25.0,,company_id/year,ABB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,26.0,,company_id/year,ABB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,27.0,,company_id/year,ABB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,28.0,,company_id/year,ABB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,29.0,,company_id/year,ABB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,30.0,,company_id/year,ABB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,31.0,,company_id/year,ABB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,32.0,,company_id/year,ABB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,33.0,,company_id/year,ABB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,34.0,,company_id/year,ABB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,35.0,,company_id/year,ABB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,146.0,,company_id/year,BAJAJ-AUTO/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,147.0,,company_id/year,BAJAJ-AUTO/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,148.0,,company_id/year,BAJAJ-AUTO/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,149.0,,company_id/year,BAJAJ-AUTO/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,150.0,,company_id/year,BAJAJ-AUTO/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,151.0,,company_id/year,BAJAJ-AUTO/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,152.0,,company_id/year,BAJAJ-AUTO/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,153.0,,company_id/year,BAJAJ-AUTO/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,154.0,,company_id/year,BAJAJ-AUTO/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,155.0,,company_id/year,BAJAJ-AUTO/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,156.0,,company_id/year,BAJAJ-AUTO/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,157.0,,company_id/year,BAJAJ-AUTO/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,158.0,,company_id/year,BAJAJ-AUTO/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,159.0,,company_id/year,BAJAJ-AUTO/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,160.0,,company_id/year,BAJAJ-AUTO/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,161.0,,company_id/year,BAJAJ-AUTO/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,162.0,,company_id/year,BAJAJ-AUTO/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,163.0,,company_id/year,BAJAJ-AUTO/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,164.0,,company_id/year,BAJAJ-AUTO/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,165.0,,company_id/year,BAJAJ-AUTO/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,166.0,,company_id/year,BAJAJ-AUTO/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,167.0,,company_id/year,BAJAJ-AUTO/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,168.0,,company_id/year,BAJAJ-AUTO/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,169.0,,company_id/year,BAJAJ-AUTO/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1027.0,,company_id/year,TCS/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1028.0,,company_id/year,TCS/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1029.0,,company_id/year,TCS/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1030.0,,company_id/year,TCS/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1031.0,,company_id/year,TCS/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1032.0,,company_id/year,TCS/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1033.0,,company_id/year,TCS/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1034.0,,company_id/year,TCS/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1035.0,,company_id/year,TCS/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1036.0,,company_id/year,TCS/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1037.0,,company_id/year,TCS/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,cashflow,1038.0,,company_id/year,TCS/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,documents,558.0,,company_id/year,HAL/2011-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,documents,559.0,,company_id/year,HAL/2011-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,2.0,,company_id/year,ABB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,3.0,,company_id/year,ABB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,4.0,,company_id/year,ABB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,5.0,,company_id/year,ABB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,6.0,,company_id/year,ABB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,7.0,,company_id/year,ABB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,8.0,,company_id/year,ABB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,9.0,,company_id/year,ABB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,10.0,,company_id/year,ABB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,11.0,,company_id/year,ABB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,12.0,,company_id/year,ABB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,13.0,,company_id/year,ABB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,14.0,,company_id/year,ABB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,15.0,,company_id/year,ABB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,16.0,,company_id/year,ABB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,17.0,,company_id/year,ABB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,18.0,,company_id/year,ABB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,19.0,,company_id/year,ABB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,20.0,,company_id/year,ABB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,21.0,,company_id/year,ABB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,22.0,,company_id/year,ABB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,23.0,,company_id/year,ABB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,55.0,,company_id/year,ADANIPORTS/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,56.0,,company_id/year,ADANIPORTS/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,57.0,,company_id/year,ADANIPORTS/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,58.0,,company_id/year,ADANIPORTS/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,59.0,,company_id/year,ADANIPORTS/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,60.0,,company_id/year,ADANIPORTS/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,61.0,,company_id/year,ADANIPORTS/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,62.0,,company_id/year,ADANIPORTS/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,63.0,,company_id/year,ADANIPORTS/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,64.0,,company_id/year,ADANIPORTS/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,65.0,,company_id/year,ADANIPORTS/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,66.0,,company_id/year,ADANIPORTS/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,67.0,,company_id/year,ADANIPORTS/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,68.0,,company_id/year,ADANIPORTS/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,69.0,,company_id/year,ADANIPORTS/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,70.0,,company_id/year,ADANIPORTS/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,71.0,,company_id/year,ADANIPORTS/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,72.0,,company_id/year,ADANIPORTS/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,73.0,,company_id/year,ADANIPORTS/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,74.0,,company_id/year,ADANIPORTS/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,75.0,,company_id/year,ADANIPORTS/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,76.0,,company_id/year,ADANIPORTS/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,77.0,,company_id/year,ADANIPORTS/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,78.0,,company_id/year,ADANIPORTS/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,114.0,,company_id/year,ASIANPAINT/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,115.0,,company_id/year,ASIANPAINT/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,116.0,,company_id/year,ASIANPAINT/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,117.0,,company_id/year,ASIANPAINT/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,118.0,,company_id/year,ASIANPAINT/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,119.0,,company_id/year,ASIANPAINT/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,120.0,,company_id/year,ASIANPAINT/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,121.0,,company_id/year,ASIANPAINT/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,122.0,,company_id/year,ASIANPAINT/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,123.0,,company_id/year,ASIANPAINT/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,124.0,,company_id/year,ASIANPAINT/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,125.0,,company_id/year,ASIANPAINT/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,126.0,,company_id/year,ASIANPAINT/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,127.0,,company_id/year,ASIANPAINT/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,128.0,,company_id/year,ASIANPAINT/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,129.0,,company_id/year,ASIANPAINT/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,130.0,,company_id/year,ASIANPAINT/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,131.0,,company_id/year,ASIANPAINT/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,132.0,,company_id/year,ASIANPAINT/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,133.0,,company_id/year,ASIANPAINT/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,134.0,,company_id/year,ASIANPAINT/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,135.0,,company_id/year,ASIANPAINT/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,136.0,,company_id/year,ASIANPAINT/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,137.0,,company_id/year,ASIANPAINT/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,138.0,,company_id/year,BAJAJ-AUTO/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,139.0,,company_id/year,BAJAJ-AUTO/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,140.0,,company_id/year,BAJAJ-AUTO/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,141.0,,company_id/year,BAJAJ-AUTO/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,142.0,,company_id/year,BAJAJ-AUTO/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,143.0,,company_id/year,BAJAJ-AUTO/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,144.0,,company_id/year,BAJAJ-AUTO/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,145.0,,company_id/year,BAJAJ-AUTO/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,146.0,,company_id/year,BAJAJ-AUTO/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,147.0,,company_id/year,BAJAJ-AUTO/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,148.0,,company_id/year,BAJAJ-AUTO/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,149.0,,company_id/year,BAJAJ-AUTO/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,150.0,,company_id/year,BAJAJ-AUTO/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,151.0,,company_id/year,BAJAJ-AUTO/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,152.0,,company_id/year,BAJAJ-AUTO/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,153.0,,company_id/year,BAJAJ-AUTO/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,154.0,,company_id/year,BAJAJ-AUTO/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,155.0,,company_id/year,BAJAJ-AUTO/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,156.0,,company_id/year,BAJAJ-AUTO/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,157.0,,company_id/year,BAJAJ-AUTO/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,158.0,,company_id/year,BAJAJ-AUTO/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,159.0,,company_id/year,BAJAJ-AUTO/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,160.0,,company_id/year,BAJAJ-AUTO/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,161.0,,company_id/year,BAJAJ-AUTO/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,850.0,,company_id/year,PNB/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,851.0,,company_id/year,PNB/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,852.0,,company_id/year,PNB/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,853.0,,company_id/year,PNB/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,854.0,,company_id/year,PNB/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,855.0,,company_id/year,PNB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,856.0,,company_id/year,PNB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,857.0,,company_id/year,PNB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,858.0,,company_id/year,PNB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,859.0,,company_id/year,PNB/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,860.0,,company_id/year,PNB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,861.0,,company_id/year,PNB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,862.0,,company_id/year,PNB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,863.0,,company_id/year,PNB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,864.0,,company_id/year,PNB/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,865.0,,company_id/year,PNB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,866.0,,company_id/year,PNB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,867.0,,company_id/year,PNB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,868.0,,company_id/year,PNB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,869.0,,company_id/year,PNB/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,870.0,,company_id/year,PNB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,871.0,,company_id/year,PNB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,872.0,,company_id/year,PNB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,873.0,,company_id/year,PNB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,874.0,,company_id/year,PNB/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,875.0,,company_id/year,PNB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,876.0,,company_id/year,PNB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,877.0,,company_id/year,PNB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,878.0,,company_id/year,PNB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,879.0,,company_id/year,PNB/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,880.0,,company_id/year,PNB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,881.0,,company_id/year,PNB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,882.0,,company_id/year,PNB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,883.0,,company_id/year,PNB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,884.0,,company_id/year,PNB/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,885.0,,company_id/year,PNB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,886.0,,company_id/year,PNB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,887.0,,company_id/year,PNB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,888.0,,company_id/year,PNB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,889.0,,company_id/year,PNB/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,890.0,,company_id/year,PNB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,891.0,,company_id/year,PNB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,892.0,,company_id/year,PNB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,893.0,,company_id/year,PNB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,894.0,,company_id/year,PNB/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,895.0,,company_id/year,PNB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,896.0,,company_id/year,PNB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,897.0,,company_id/year,PNB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,898.0,,company_id/year,PNB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,899.0,,company_id/year,PNB/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,900.0,,company_id/year,PNB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,901.0,,company_id/year,PNB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,902.0,,company_id/year,PNB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,903.0,,company_id/year,PNB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,904.0,,company_id/year,PNB/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,905.0,,company_id/year,PNB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,906.0,,company_id/year,PNB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,907.0,,company_id/year,PNB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,908.0,,company_id/year,PNB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,909.0,,company_id/year,PNB/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,910.0,,company_id/year,POWERGRID/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,911.0,,company_id/year,POWERGRID/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,912.0,,company_id/year,POWERGRID/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,913.0,,company_id/year,POWERGRID/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,914.0,,company_id/year,POWERGRID/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,915.0,,company_id/year,POWERGRID/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,916.0,,company_id/year,POWERGRID/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,917.0,,company_id/year,POWERGRID/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,918.0,,company_id/year,POWERGRID/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,919.0,,company_id/year,POWERGRID/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,920.0,,company_id/year,POWERGRID/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,921.0,,company_id/year,POWERGRID/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,922.0,,company_id/year,POWERGRID/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,923.0,,company_id/year,POWERGRID/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,924.0,,company_id/year,POWERGRID/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,925.0,,company_id/year,POWERGRID/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,926.0,,company_id/year,POWERGRID/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,927.0,,company_id/year,POWERGRID/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,928.0,,company_id/year,POWERGRID/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,929.0,,company_id/year,POWERGRID/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,930.0,,company_id/year,POWERGRID/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,931.0,,company_id/year,POWERGRID/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,932.0,,company_id/year,POWERGRID/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,933.0,,company_id/year,POWERGRID/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1077.0,,company_id/year,TECHM/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1078.0,,company_id/year,TECHM/2013-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1079.0,,company_id/year,TECHM/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1080.0,,company_id/year,TECHM/2014-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1081.0,,company_id/year,TECHM/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1082.0,,company_id/year,TECHM/2015-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1083.0,,company_id/year,TECHM/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1084.0,,company_id/year,TECHM/2016-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1085.0,,company_id/year,TECHM/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1086.0,,company_id/year,TECHM/2017-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1087.0,,company_id/year,TECHM/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1088.0,,company_id/year,TECHM/2018-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1089.0,,company_id/year,TECHM/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1090.0,,company_id/year,TECHM/2019-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1091.0,,company_id/year,TECHM/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1092.0,,company_id/year,TECHM/2020-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1093.0,,company_id/year,TECHM/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1094.0,,company_id/year,TECHM/2021-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1095.0,,company_id/year,TECHM/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1096.0,,company_id/year,TECHM/2022-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1097.0,,company_id/year,TECHM/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1098.0,,company_id/year,TECHM/2023-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1099.0,,company_id/year,TECHM/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-15,financial_ratios,1100.0,,company_id/year,TECHM/2024-03,INFO,Multiple source observations share company and period; preserved by source primary key
+DQ-16,coverage,,,company_id,ATGL,WARNING,"Financial history under 5 years; P&L/BS/CF=[7, 8, 0]"
+DQ-16,coverage,,,company_id,JIOFIN,WARNING,"Financial history under 5 years; P&L/BS/CF=[2, 3, 2]"
+DQ-16,coverage,,,company_id,SBIN,WARNING,"Financial history under 5 years; P&L/BS/CF=[12, 0, 12]"
