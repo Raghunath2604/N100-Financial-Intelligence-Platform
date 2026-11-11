@@ -1,0 +1,104 @@
+{
+  "ratio_rows": 1155,
+  "companies": 92,
+  "kpi_columns": 64,
+  "kpi_columns_with_values": 63,
+  "cagr_flag_counts": {
+    "financial_sector_flag": {
+      "false": 883,
+      "true": 272
+    },
+    "high_leverage_flag": {
+      "false": 1136,
+      "true": 19
+    },
+    "negative_fcf_flag": {
+      "false": 817,
+      "true": 338
+    },
+    "debt_free_flag": {
+      "false": 1055,
+      "true": 100
+    },
+    "opm_crosscheck_flag": {
+      "false": 939,
+      "true": 216
+    },
+    "revenue_cagr_3y_flag": {
+      "OK": 795,
+      "INSUFFICIENT_DATA": 359,
+      "ZERO_BASE": 1
+    },
+    "revenue_cagr_5y_flag": {
+      "OK": 615,
+      "INSUFFICIENT_DATA": 539,
+      "ZERO_BASE": 1
+    },
+    "revenue_cagr_10y_flag": {
+      "INSUFFICIENT_DATA": 984,
+      "OK": 170,
+      "ZERO_BASE": 1
+    },
+    "pat_cagr_3y_flag": {
+      "OK": 707,
+      "INSUFFICIENT_DATA": 359,
+      "TURNAROUND": 41,
+      "DECLINE_TO_LOSS": 34,
+      "BOTH_NEGATIVE": 13,
+      "ZERO_BASE": 1
+    },
+    "pat_cagr_5y_flag": {
+      "OK": 552,
+      "INSUFFICIENT_DATA": 539,
+      "TURNAROUND": 31,
+      "DECLINE_TO_LOSS": 26,
+      "BOTH_NEGATIVE": 6,
+      "ZERO_BASE": 1
+    },
+    "pat_cagr_10y_flag": {
+      "INSUFFICIENT_DATA": 984,
+      "OK": 161,
+      "TURNAROUND": 5,
+      "DECLINE_TO_LOSS": 4,
+      "ZERO_BASE": 1
+    },
+    "eps_cagr_3y_flag": {
+      "OK": 703,
+      "INSUFFICIENT_DATA": 362,
+      "TURNAROUND": 35,
+      "DECLINE_TO_LOSS": 31,
+      "BOTH_NEGATIVE": 11,
+      "ZERO_BASE": 9,
+      "DECLINE_TO_ZERO": 3,
+      "INVALID_SIGN": 1
+    },
+    "eps_cagr_5y_flag": {
+      "OK": 547,
+      "INSUFFICIENT_DATA": 541,
+      "TURNAROUND": 27,
+      "DECLINE_TO_LOSS": 26,
+      "ZERO_BASE": 8,
+      "BOTH_NEGATIVE": 5,
+      "DECLINE_TO_ZERO": 1
+    },
+    "eps_cagr_10y_flag": {
+      "INSUFFICIENT_DATA": 985,
+      "OK": 158,
+      "TURNAROUND": 6,
+      "DECLINE_TO_LOSS": 4,
+      "ZERO_BASE": 2
+    },
+    "cfo_negative_cff_positive_flag": {
+      "false": 1017,
+      "true": 138
+    },
+    "deleveraging_flag": {
+      "false": 881,
+      "true": 274
+    },
+    "fcf_negative_3y_flag": {
+      "false": 1058,
+      "true": 97
+    }
+  }
+}
