@@ -1,0 +1,26 @@
+{
+  "sprint": 4,
+  "dashboard_screens": 8,
+  "custom_screener_sliders": 10,
+  "preset_strategies": 6,
+  "companies_in_valuation_summary": 92,
+  "valuation_rows": 92,
+  "market_snapshot_years": [
+    "2024-03"
+  ],
+  "valuation_flag_counts": {
+    "In line / insufficient benchmark": 45,
+    "Potential discount: PE < 0.7x sector median": 29,
+    "Caution: PE > 1.5x sector median": 14,
+    "Insufficient valuation data": 4
+  },
+  "fcf_yield_missing": 82,
+  "interim_period_fallbacks": 1,
+  "peer_percentile_rows_retained": 560,
+  "cumulative_tests_passed": 152,
+  "test_summary": "152 passed, 0 failed",
+  "python_compile_errors": 0,
+  "sqlite_foreign_key_violations": 0,
+  "streamlit_available_in_build_runtime": false,
+  "application_level_smoke_test": "8/8 dashboard page render functions passed using Streamlit API stub; app entrypoint import passed; real browser test not run"
+}

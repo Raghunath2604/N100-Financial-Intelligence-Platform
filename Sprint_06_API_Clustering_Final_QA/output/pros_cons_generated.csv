@@ -1,0 +1,945 @@
+company_id,company_name,broad_sector,type,rule_id,rule,statement,confidence_pct,confidence_pass
+ABB,Abbott India Ltd,Industrials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+ABB,Abbott India Ltd,Industrials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+ABB,Abbott India Ltd,Industrials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+ABB,Abbott India Ltd,Industrials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+ABB,Abbott India Ltd,Industrials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+ABB,Abbott India Ltd,Industrials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,91.7,True
+ABB,Abbott India Ltd,Industrials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,75.0,True
+ABB,Abbott India Ltd,Industrials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,94.8,True
+ABB,Abbott India Ltd,Industrials,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+ABB,Abbott India Ltd,Industrials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,87.9,True
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,86.4,True
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,75.0,True
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,72.9,True
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,77.9,True
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",72.9,True
+ADANIENT,Adani Enterprises Ltd,Industrials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,89.0,True
+ADANIENT,Adani Enterprises Ltd,Industrials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+ADANIENT,Adani Enterprises Ltd,Industrials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,73.1,True
+ADANIENT,Adani Enterprises Ltd,Industrials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,81.8,True
+ADANIENT,Adani Enterprises Ltd,Industrials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+ADANIENT,Adani Enterprises Ltd,Industrials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,71.7,True
+ADANIENT,Adani Enterprises Ltd,Industrials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,78.0,True
+ADANIENT,Adani Enterprises Ltd,Industrials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+ADANIENT,Adani Enterprises Ltd,Industrials,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,93.9,True
+ADANIGREEN,Adani Green Energy Ltd,Energy,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,95.0,True
+ADANIGREEN,Adani Green Energy Ltd,Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,76.1,True
+ADANIGREEN,Adani Green Energy Ltd,Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+ADANIGREEN,Adani Green Energy Ltd,Energy,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+ADANIGREEN,Adani Green Energy Ltd,Energy,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,76.6,True
+ADANIGREEN,Adani Green Energy Ltd,Energy,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,77.2,True
+ADANIGREEN,Adani Green Energy Ltd,Energy,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",76.6,True
+ADANIGREEN,Adani Green Energy Ltd,Energy,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,85.4,True
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,75.9,True
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,89.6,True
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,84.9,True
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.9,True
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+ADANIPOWER,Adani Power Ltd,Energy,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+ADANIPOWER,Adani Power Ltd,Energy,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,88.4,True
+ADANIPOWER,Adani Power Ltd,Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+ADANIPOWER,Adani Power Ltd,Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,78.3,True
+ADANIPOWER,Adani Power Ltd,Energy,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,86.1,True
+ADANIPOWER,Adani Power Ltd,Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+ADANIPOWER,Adani Power Ltd,Energy,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+ADANIPOWER,Adani Power Ltd,Energy,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+ADANIPOWER,Adani Power Ltd,Energy,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+AMBUJACEM,Ambuja Cements Ltd,Materials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+AMBUJACEM,Ambuja Cements Ltd,Materials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+AMBUJACEM,Ambuja Cements Ltd,Materials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,81.2,True
+AMBUJACEM,Ambuja Cements Ltd,Materials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.2,True
+AMBUJACEM,Ambuja Cements Ltd,Materials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,89.3,True
+AMBUJACEM,Ambuja Cements Ltd,Materials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+AMBUJACEM,Ambuja Cements Ltd,Materials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,75.6,True
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,84.7,True
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,72.1,True
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,82.6,True
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,83.0,True
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,90.3,True
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.1,True
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,91.4,True
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+ATGL,Adani Total Gas Ltd,Energy,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,88.7,True
+ATGL,Adani Total Gas Ltd,Energy,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,88.4,True
+ATGL,Adani Total Gas Ltd,Energy,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.4,True
+ATGL,Adani Total Gas Ltd,Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,80.5,True
+ATGL,Adani Total Gas Ltd,Energy,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,91.1,True
+ATGL,Adani Total Gas Ltd,Energy,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,93.9,True
+ATGL,Adani Total Gas Ltd,Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,94.7,True
+ATGL,Adani Total Gas Ltd,Energy,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+ATGL,Adani Total Gas Ltd,Energy,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+AXISBANK,Axis Bank Ltd,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,85.8,True
+AXISBANK,Axis Bank Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,84.7,True
+AXISBANK,Axis Bank Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+AXISBANK,Axis Bank Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+AXISBANK,Axis Bank Ltd,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+AXISBANK,Axis Bank Ltd,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,78.2,True
+AXISBANK,Axis Bank Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,72.5,True
+AXISBANK,Axis Bank Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,70.2,True
+AXISBANK,Axis Bank Ltd,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",78.2,True
+AXISBANK,Axis Bank Ltd,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+AXISBANK,Axis Bank Ltd,Financials,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,83.2,True
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,89.5,True
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,91.0,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,93.7,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,74.8,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,74.4,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",74.8,True
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,95.0,True
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,89.3,True
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,72.8,True
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,70.3,True
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,90.5,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,88.8,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,94.4,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,73.8,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,74.2,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,75.0,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",73.8,True
+BAJFINANCE,Bajaj Finance Ltd,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+BANKBARODA,Bank of Baroda,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,85.8,True
+BANKBARODA,Bank of Baroda,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,87.5,True
+BANKBARODA,Bank of Baroda,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+BANKBARODA,Bank of Baroda,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+BANKBARODA,Bank of Baroda,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+BANKBARODA,Bank of Baroda,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,82.1,True
+BANKBARODA,Bank of Baroda,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,72.7,True
+BANKBARODA,Bank of Baroda,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,70.3,True
+BANKBARODA,Bank of Baroda,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",82.1,True
+BANKBARODA,Bank of Baroda,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,87.0,True
+BANKBARODA,Bank of Baroda,Financials,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,87.5,True
+BEL,Bharat Electronics Ltd,Industrials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+BEL,Bharat Electronics Ltd,Industrials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+BEL,Bharat Electronics Ltd,Industrials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+BEL,Bharat Electronics Ltd,Industrials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,80.8,True
+BEL,Bharat Electronics Ltd,Industrials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,86.1,True
+BEL,Bharat Electronics Ltd,Industrials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.2,True
+BEL,Bharat Electronics Ltd,Industrials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,94.9,True
+BEL,Bharat Electronics Ltd,Industrials,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+BEL,Bharat Electronics Ltd,Industrials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+BEL,Bharat Electronics Ltd,Industrials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,73.3,True
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,83.2,True
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,79.2,True
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,72.6,True
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",72.6,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.4,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,73.0,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,con,C04,ROE below 8%,Return on equity is below 8% in the latest annual ratio record.,71.2,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,71.4,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,con,C06,Negative revenue CAGR 5Y,Five-year revenue CAGR is negative in the available annual history.,74.7,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,con,C07,Negative PAT CAGR 5Y,Five-year profit CAGR is negative in the available annual history.,92.4,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,83.2,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,75.1,True
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,90.6,True
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,82.5,True
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+BPCL,Bharat Petroleum Corporation Ltd,Energy,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+BPCL,Bharat Petroleum Corporation Ltd,Energy,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+BPCL,Bharat Petroleum Corporation Ltd,Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+BPCL,Bharat Petroleum Corporation Ltd,Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,81.4,True
+BPCL,Bharat Petroleum Corporation Ltd,Energy,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+BPCL,Bharat Petroleum Corporation Ltd,Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.3,True
+BPCL,Bharat Petroleum Corporation Ltd,Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,79.8,True
+BPCL,Bharat Petroleum Corporation Ltd,Energy,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+BPCL,Bharat Petroleum Corporation Ltd,Energy,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,90.6,True
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,83.1,True
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.2,True
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,88.9,True
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+CANBK,Canara Bank,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,86.7,True
+CANBK,Canara Bank,Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+CANBK,Canara Bank,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,88.2,True
+CANBK,Canara Bank,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+CANBK,Canara Bank,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+CANBK,Canara Bank,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,84.9,True
+CANBK,Canara Bank,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,73.1,True
+CANBK,Canara Bank,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",84.9,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,87.5,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,91.2,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,91.9,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,93.4,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,76.9,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,73.4,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,80.4,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",76.9,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+CIPLA,"Cipla Ltd
+",Healthcare,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,85.6,True
+CIPLA,"Cipla Ltd
+",Healthcare,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+CIPLA,"Cipla Ltd
+",Healthcare,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+CIPLA,"Cipla Ltd
+",Healthcare,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+CIPLA,"Cipla Ltd
+",Healthcare,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+CIPLA,"Cipla Ltd
+",Healthcare,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,92.7,True
+CIPLA,"Cipla Ltd
+",Healthcare,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+CIPLA,"Cipla Ltd
+",Healthcare,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+CIPLA,"Cipla Ltd
+",Healthcare,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+COALINDIA,Coal India Ltd,Materials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+COALINDIA,Coal India Ltd,Materials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+COALINDIA,Coal India Ltd,Materials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+COALINDIA,Coal India Ltd,Materials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+COALINDIA,Coal India Ltd,Materials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,81.2,True
+COALINDIA,Coal India Ltd,Materials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,86.4,True
+COALINDIA,Coal India Ltd,Materials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+COALINDIA,Coal India Ltd,Materials,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+COALINDIA,Coal India Ltd,Materials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,70.5,True
+DABUR,Dabur India Ltd,Consumer Staples,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,88.4,True
+DABUR,Dabur India Ltd,Consumer Staples,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,87.8,True
+DABUR,Dabur India Ltd,Consumer Staples,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+DABUR,Dabur India Ltd,Consumer Staples,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+DABUR,Dabur India Ltd,Consumer Staples,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,93.2,True
+DABUR,Dabur India Ltd,Consumer Staples,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.1,True
+DABUR,Dabur India Ltd,Consumer Staples,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,89.3,True
+DABUR,Dabur India Ltd,Consumer Staples,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,92.6,True
+DIVISLAB,Divis Laboratories Ltd,Healthcare,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+DIVISLAB,Divis Laboratories Ltd,Healthcare,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+DIVISLAB,Divis Laboratories Ltd,Healthcare,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+DIVISLAB,Divis Laboratories Ltd,Healthcare,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+DIVISLAB,Divis Laboratories Ltd,Healthcare,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+DLF,DLF Ltd,Real Estate,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+DLF,DLF Ltd,Real Estate,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+DLF,DLF Ltd,Real Estate,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,77.5,True
+DLF,DLF Ltd,Real Estate,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,85.7,True
+DLF,DLF Ltd,Real Estate,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+DLF,DLF Ltd,Real Estate,con,C04,ROE below 8%,Return on equity is below 8% in the latest annual ratio record.,76.9,True
+DLF,DLF Ltd,Real Estate,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,74.5,True
+DLF,DLF Ltd,Real Estate,con,C06,Negative revenue CAGR 5Y,Five-year revenue CAGR is negative in the available annual history.,75.1,True
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,87.5,True
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,90.5,True
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,93.0,True
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.1,True
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,78.1,True
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,89.7,True
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,91.4,True
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,82.6,True
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,93.4,True
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,92.2,True
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,90.2,True
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,81.0,True
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,82.7,True
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+GAIL,GAIL (India) Ltd,Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+GAIL,GAIL (India) Ltd,Energy,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.3,True
+GAIL,GAIL (India) Ltd,Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,93.6,True
+GAIL,GAIL (India) Ltd,Energy,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,81.8,True
+GAIL,GAIL (India) Ltd,Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.3,True
+GAIL,GAIL (India) Ltd,Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,80.7,True
+GAIL,GAIL (India) Ltd,Energy,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,87.2,True
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.3,True
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,91.0,True
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,con,C04,ROE below 8%,Return on equity is below 8% in the latest annual ratio record.,74.5,True
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,73.7,True
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,90.2,True
+GRASIM,Grasim Industries Ltd,Industrials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,73.0,True
+GRASIM,Grasim Industries Ltd,Industrials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,81.2,True
+GRASIM,Grasim Industries Ltd,Industrials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+GRASIM,Grasim Industries Ltd,Industrials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,90.8,True
+GRASIM,Grasim Industries Ltd,Industrials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+GRASIM,Grasim Industries Ltd,Industrials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,71.5,True
+GRASIM,Grasim Industries Ltd,Industrials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,71.1,True
+GRASIM,Grasim Industries Ltd,Industrials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+HAL,Hindustan Aeronautics Ltd,Industrials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+HAL,Hindustan Aeronautics Ltd,Industrials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+HAL,Hindustan Aeronautics Ltd,Industrials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+HAL,Hindustan Aeronautics Ltd,Industrials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+HAL,Hindustan Aeronautics Ltd,Industrials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+HAL,Hindustan Aeronautics Ltd,Industrials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.1,True
+HAL,Hindustan Aeronautics Ltd,Industrials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+HAL,Hindustan Aeronautics Ltd,Industrials,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+HAL,Hindustan Aeronautics Ltd,Industrials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+HAVELLS,Havells India Ltd,Industrials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,87.1,True
+HAVELLS,Havells India Ltd,Industrials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,89.9,True
+HAVELLS,Havells India Ltd,Industrials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+HAVELLS,Havells India Ltd,Industrials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+HAVELLS,Havells India Ltd,Industrials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+HAVELLS,Havells India Ltd,Industrials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,83.0,True
+HAVELLS,Havells India Ltd,Industrials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,80.0,True
+HAVELLS,Havells India Ltd,Industrials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.5,True
+HAVELLS,Havells India Ltd,Industrials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,80.1,True
+HAVELLS,Havells India Ltd,Industrials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+HCLTECH,HCL Technologies Ltd,Information Technology,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,93.0,True
+HCLTECH,HCL Technologies Ltd,Information Technology,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+HCLTECH,HCL Technologies Ltd,Information Technology,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+HCLTECH,HCL Technologies Ltd,Information Technology,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+HCLTECH,HCL Technologies Ltd,Information Technology,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+HCLTECH,HCL Technologies Ltd,Information Technology,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,82.7,True
+HCLTECH,HCL Technologies Ltd,Information Technology,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.4,True
+HCLTECH,HCL Technologies Ltd,Information Technology,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,92.0,True
+HCLTECH,HCL Technologies Ltd,Information Technology,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+HDFCBANK,HDFC Bank Ltd,Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+HDFCBANK,HDFC Bank Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,92.0,True
+HDFCBANK,HDFC Bank Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,93.9,True
+HDFCBANK,HDFC Bank Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+HDFCBANK,HDFC Bank Ltd,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,76.8,True
+HDFCBANK,HDFC Bank Ltd,Financials,con,C03,Interest coverage < 1.5x,"Interest coverage is low, indicating limited headroom against finance costs.",71.4,True
+HDFCBANK,HDFC Bank Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,74.8,True
+HDFCBANK,HDFC Bank Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,70.3,True
+HDFCBANK,HDFC Bank Ltd,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",76.8,True
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,91.2,True
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,76.8,True
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,72.9,True
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,91.1,True
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.3,True
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+HINDALCO,Hindalco Industries Ltd,Materials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+HINDALCO,Hindalco Industries Ltd,Materials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+HINDALCO,Hindalco Industries Ltd,Materials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+HINDALCO,Hindalco Industries Ltd,Materials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,80.6,True
+HINDALCO,Hindalco Industries Ltd,Materials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,83.1,True
+HINDALCO,Hindalco Industries Ltd,Materials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,72.4,True
+HINDALCO,Hindalco Industries Ltd,Materials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+HINDALCO,Hindalco Industries Ltd,Materials,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+HINDALCO,Hindalco Industries Ltd,Materials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,90.1,True
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,81.2,True
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.5,True
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+ICICIBANK,ICICI Bank Ltd,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,88.0,True
+ICICIBANK,ICICI Bank Ltd,Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+ICICIBANK,ICICI Bank Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,87.3,True
+ICICIBANK,ICICI Bank Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+ICICIBANK,ICICI Bank Ltd,Financials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,73.4,True
+ICICIBANK,ICICI Bank Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+ICICIBANK,ICICI Bank Ltd,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,76.4,True
+ICICIBANK,ICICI Bank Ltd,Financials,con,C03,Interest coverage < 1.5x,"Interest coverage is low, indicating limited headroom against finance costs.",71.3,True
+ICICIBANK,ICICI Bank Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,75.1,True
+ICICIBANK,ICICI Bank Ltd,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",76.4,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,85.7,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,82.9,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,82.8,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.3,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,86.8,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,con,C04,ROE below 8%,Return on equity is below 8% in the latest annual ratio record.,77.7,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,con,C07,Negative PAT CAGR 5Y,Five-year profit CAGR is negative in the available annual history.,75.7,True
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,78.6,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,92.6,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,89.3,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,72.6,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+INDUSINDBK,IndusInd Bank Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,85.5,True
+INDUSINDBK,IndusInd Bank Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,92.1,True
+INDUSINDBK,IndusInd Bank Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+INDUSINDBK,IndusInd Bank Ltd,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+INDUSINDBK,IndusInd Bank Ltd,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,76.9,True
+INDUSINDBK,IndusInd Bank Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,73.5,True
+INDUSINDBK,IndusInd Bank Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,71.9,True
+INDUSINDBK,IndusInd Bank Ltd,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",76.9,True
+INDUSINDBK,IndusInd Bank Ltd,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+INFY,Infosys Ltd,Information Technology,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+INFY,Infosys Ltd,Information Technology,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+INFY,Infosys Ltd,Information Technology,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+INFY,Infosys Ltd,Information Technology,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+INFY,Infosys Ltd,Information Technology,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+INFY,Infosys Ltd,Information Technology,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,83.2,True
+INFY,Infosys Ltd,Information Technology,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,81.2,True
+INFY,Infosys Ltd,Information Technology,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,93.7,True
+INFY,Infosys Ltd,Information Technology,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+IOC,"Indian Oil Corporation
+",Energy,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,93.5,True
+IOC,"Indian Oil Corporation
+",Energy,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,88.9,True
+IOC,"Indian Oil Corporation
+",Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+IOC,"Indian Oil Corporation
+",Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,80.3,True
+IOC,"Indian Oil Corporation
+",Energy,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,90.1,True
+IOC,"Indian Oil Corporation
+",Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.6,True
+IOC,"Indian Oil Corporation
+",Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,79.7,True
+IOC,"Indian Oil Corporation
+",Energy,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+IOC,"Indian Oil Corporation
+",Energy,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,88.0,True
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+IRFC,Indian Railway Finance Corporation Ltd,Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+IRFC,Indian Railway Finance Corporation Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,89.1,True
+IRFC,Indian Railway Finance Corporation Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,93.2,True
+IRFC,Indian Railway Finance Corporation Ltd,Financials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.2,True
+IRFC,Indian Railway Finance Corporation Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+IRFC,Indian Railway Finance Corporation Ltd,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,78.4,True
+IRFC,Indian Railway Finance Corporation Ltd,Financials,con,C03,Interest coverage < 1.5x,"Interest coverage is low, indicating limited headroom against finance costs.",71.3,True
+IRFC,Indian Railway Finance Corporation Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,75.7,True
+IRFC,Indian Railway Finance Corporation Ltd,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",78.4,True
+ITC,"ITC Ltd
+",Consumer Staples,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+ITC,"ITC Ltd
+",Consumer Staples,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+ITC,"ITC Ltd
+",Consumer Staples,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+ITC,"ITC Ltd
+",Consumer Staples,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+ITC,"ITC Ltd
+",Consumer Staples,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+ITC,"ITC Ltd
+",Consumer Staples,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,80.1,True
+ITC,"ITC Ltd
+",Consumer Staples,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+ITC,"ITC Ltd
+",Consumer Staples,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+ITC,"ITC Ltd
+",Consumer Staples,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.4,True
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,78.0,True
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.0,True
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,90.3,True
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,92.9,True
+JIOFIN,Jio Financial Services Ltd,Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+JIOFIN,Jio Financial Services Ltd,Financials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+JIOFIN,Jio Financial Services Ltd,Financials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+JIOFIN,Jio Financial Services Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+JIOFIN,Jio Financial Services Ltd,Financials,pro,P10,Debt-free balance sheet,The source ratio engine classifies the company as debt-free.,71.0,True
+JIOFIN,Jio Financial Services Ltd,Financials,con,C04,ROE below 8%,Return on equity is below 8% in the latest annual ratio record.,71.2,True
+JIOFIN,Jio Financial Services Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,71.1,True
+JIOFIN,Jio Financial Services Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,70.4,True
+JIOFIN,Jio Financial Services Ltd,Financials,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,73.8,True
+JSWENERGY,JSW Energy Ltd,Energy,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,90.3,True
+JSWENERGY,JSW Energy Ltd,Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,73.6,True
+JSWENERGY,JSW Energy Ltd,Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+JSWENERGY,JSW Energy Ltd,Energy,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+JSWENERGY,JSW Energy Ltd,Energy,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,71.5,True
+JSWENERGY,JSW Energy Ltd,Energy,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,77.2,True
+JSWENERGY,JSW Energy Ltd,Energy,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+JSWSTEEL,JSW Steel Ltd,Materials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,73.7,True
+JSWSTEEL,JSW Steel Ltd,Materials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,85.6,True
+JSWSTEEL,JSW Steel Ltd,Materials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.3,True
+JSWSTEEL,JSW Steel Ltd,Materials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,86.1,True
+JSWSTEEL,JSW Steel Ltd,Materials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+JSWSTEEL,JSW Steel Ltd,Materials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,71.1,True
+JSWSTEEL,JSW Steel Ltd,Materials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,78.5,True
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,83.5,True
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,90.4,True
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,74.0,True
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,con,C03,Interest coverage < 1.5x,"Interest coverage is low, indicating limited headroom against finance costs.",71.2,True
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,77.1,True
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",74.0,True
+LICI,Life Insurance Corporation of India,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+LICI,Life Insurance Corporation of India,Financials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+LICI,Life Insurance Corporation of India,Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+LICI,Life Insurance Corporation of India,Financials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+LICI,Life Insurance Corporation of India,Financials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+LICI,Life Insurance Corporation of India,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+LICI,Life Insurance Corporation of India,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,73.9,True
+LICI,Life Insurance Corporation of India,Financials,pro,P10,Debt-free balance sheet,The source ratio engine classifies the company as debt-free.,71.0,True
+LICI,Life Insurance Corporation of India,Financials,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+LICI,Life Insurance Corporation of India,Financials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+LODHA,Macrotech Developers Ltd,Real Estate,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.4,True
+LODHA,Macrotech Developers Ltd,Real Estate,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,75.6,True
+LODHA,Macrotech Developers Ltd,Real Estate,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.6,True
+LODHA,Macrotech Developers Ltd,Real Estate,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+LODHA,Macrotech Developers Ltd,Real Estate,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+LODHA,Macrotech Developers Ltd,Real Estate,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+LODHA,Macrotech Developers Ltd,Real Estate,con,C06,Negative revenue CAGR 5Y,Five-year revenue CAGR is negative in the available annual history.,72.8,True
+LODHA,Macrotech Developers Ltd,Real Estate,con,C07,Negative PAT CAGR 5Y,Five-year profit CAGR is negative in the available annual history.,71.1,True
+LODHA,Macrotech Developers Ltd,Real Estate,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,86.3,True
+LT,Larsen & Toubro Ltd,Industrials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+LT,Larsen & Toubro Ltd,Industrials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+LT,Larsen & Toubro Ltd,Industrials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+LT,Larsen & Toubro Ltd,Industrials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+LT,Larsen & Toubro Ltd,Industrials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,73.5,True
+LT,Larsen & Toubro Ltd,Industrials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,80.3,True
+LT,Larsen & Toubro Ltd,Industrials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.2,True
+LT,Larsen & Toubro Ltd,Industrials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,83.5,True
+LT,Larsen & Toubro Ltd,Industrials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+LTIM,LTIMindtree Ltd,Information Technology,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,92.9,True
+LTIM,LTIMindtree Ltd,Information Technology,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+LTIM,LTIMindtree Ltd,Information Technology,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+LTIM,LTIMindtree Ltd,Information Technology,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+LTIM,LTIMindtree Ltd,Information Technology,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+LTIM,LTIMindtree Ltd,Information Technology,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,95.0,True
+LTIM,LTIMindtree Ltd,Information Technology,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,94.8,True
+LTIM,LTIMindtree Ltd,Information Technology,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.2,True
+LTIM,LTIMindtree Ltd,Information Technology,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,88.0,True
+LTIM,LTIMindtree Ltd,Information Technology,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,88.5,True
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,73.8,True
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,85.3,True
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,87.9,True
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,71.6,True
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,70.5,True
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,85.8,True
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,85.6,True
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,80.5,True
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,82.0,True
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.2,True
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,83.1,True
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,75.2,True
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,72.5,True
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,79.4,True
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+NAUKRI,Info Edge (India) Ltd,Communication Services,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+NAUKRI,Info Edge (India) Ltd,Communication Services,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+NAUKRI,Info Edge (India) Ltd,Communication Services,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,87.1,True
+NAUKRI,Info Edge (India) Ltd,Communication Services,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.2,True
+NAUKRI,Info Edge (India) Ltd,Communication Services,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+NAUKRI,Info Edge (India) Ltd,Communication Services,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+NAUKRI,Info Edge (India) Ltd,Communication Services,con,C04,ROE below 8%,Return on equity is below 8% in the latest annual ratio record.,72.0,True
+NAUKRI,Info Edge (India) Ltd,Communication Services,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,72.0,True
+NAUKRI,Info Edge (India) Ltd,Communication Services,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,91.1,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,84.5,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,84.9,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.1,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,93.8,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+NESTLEIND,Nestle India Ltd,Consumer Staples,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+NHPC,"NHPC Ltd
+",Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+NHPC,"NHPC Ltd
+",Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,81.2,True
+NHPC,"NHPC Ltd
+",Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.7,True
+NHPC,"NHPC Ltd
+",Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+NHPC,"NHPC Ltd
+",Energy,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,75.1,True
+NHPC,"NHPC Ltd
+",Energy,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,82.7,True
+NTPC,NTPC Ltd,Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+NTPC,NTPC Ltd,Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,74.6,True
+NTPC,NTPC Ltd,Energy,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,82.2,True
+NTPC,NTPC Ltd,Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.9,True
+NTPC,NTPC Ltd,Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+NTPC,NTPC Ltd,Energy,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,71.5,True
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,86.9,True
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,85.1,True
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.5,True
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,81.4,True
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,81.0,True
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.7,True
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,87.4,True
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+PFC,Power Finance Corporation Ltd,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+PFC,Power Finance Corporation Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,81.1,True
+PFC,Power Finance Corporation Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,85.9,True
+PFC,Power Finance Corporation Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+PFC,Power Finance Corporation Ltd,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+PFC,Power Finance Corporation Ltd,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,78.5,True
+PFC,Power Finance Corporation Ltd,Financials,con,C03,Interest coverage < 1.5x,"Interest coverage is low, indicating limited headroom against finance costs.",70.6,True
+PFC,Power Finance Corporation Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,73.5,True
+PFC,Power Finance Corporation Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,73.7,True
+PFC,Power Finance Corporation Ltd,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",78.5,True
+PFC,Power Finance Corporation Ltd,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+PIDILITIND,Pidilite Industries Ltd,Materials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,90.8,True
+PIDILITIND,Pidilite Industries Ltd,Materials,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+PIDILITIND,Pidilite Industries Ltd,Materials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+PIDILITIND,Pidilite Industries Ltd,Materials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+PIDILITIND,Pidilite Industries Ltd,Materials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+PIDILITIND,Pidilite Industries Ltd,Materials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,81.8,True
+PIDILITIND,Pidilite Industries Ltd,Materials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,83.5,True
+PIDILITIND,Pidilite Industries Ltd,Materials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.6,True
+PIDILITIND,Pidilite Industries Ltd,Materials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,91.9,True
+PIDILITIND,Pidilite Industries Ltd,Materials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+PNB,Punjab National Bank,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+PNB,Punjab National Bank,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,85.9,True
+PNB,Punjab National Bank,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+PNB,Punjab National Bank,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,73.7,True
+PNB,Punjab National Bank,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,73.1,True
+PNB,Punjab National Bank,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",73.7,True
+POWERGRID,Power Grid Corporation of India Ltd,Energy,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,87.9,True
+POWERGRID,Power Grid Corporation of India Ltd,Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+POWERGRID,Power Grid Corporation of India Ltd,Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,74.6,True
+POWERGRID,Power Grid Corporation of India Ltd,Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,72.4,True
+POWERGRID,Power Grid Corporation of India Ltd,Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+POWERGRID,Power Grid Corporation of India Ltd,Energy,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+POWERGRID,Power Grid Corporation of India Ltd,Energy,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,71.4,True
+RECLTD,REC Ltd,Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,90.4,True
+RECLTD,REC Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,83.3,True
+RECLTD,REC Ltd,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,89.8,True
+RECLTD,REC Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+RECLTD,REC Ltd,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+RECLTD,REC Ltd,Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,76.4,True
+RECLTD,REC Ltd,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,74.1,True
+RECLTD,REC Ltd,Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",76.4,True
+RECLTD,REC Ltd,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+RELIANCE,"Reliance Industries Ltd
+",Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+RELIANCE,"Reliance Industries Ltd
+",Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,77.7,True
+RELIANCE,"Reliance Industries Ltd
+",Energy,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,84.7,True
+RELIANCE,"Reliance Industries Ltd
+",Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,72.0,True
+RELIANCE,"Reliance Industries Ltd
+",Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,88.1,True
+RELIANCE,"Reliance Industries Ltd
+",Energy,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+SBILIFE,SBI Life Insurance Company Ltd,Financials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.0,True
+SBILIFE,SBI Life Insurance Company Ltd,Financials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+SBILIFE,SBI Life Insurance Company Ltd,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,94.2,True
+SBILIFE,SBI Life Insurance Company Ltd,Financials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,85.4,True
+SBILIFE,SBI Life Insurance Company Ltd,Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,70.2,True
+SBILIFE,SBI Life Insurance Company Ltd,Financials,pro,P10,Debt-free balance sheet,The source ratio engine classifies the company as debt-free.,71.0,True
+SBILIFE,SBI Life Insurance Company Ltd,Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+SBILIFE,SBI Life Insurance Company Ltd,Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,71.1,True
+SBILIFE,SBI Life Insurance Company Ltd,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+SBILIFE,SBI Life Insurance Company Ltd,Financials,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,74.3,True
+SBIN,State Bank of India,Financials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+SBIN,State Bank of India,Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,81.6,True
+SBIN,State Bank of India,Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+SBIN,State Bank of India,Financials,pro,P10,Debt-free balance sheet,The source ratio engine classifies the company as debt-free.,71.0,True
+SBIN,State Bank of India,Financials,con,C03,Interest coverage < 1.5x,"Interest coverage is low, indicating limited headroom against finance costs.",70.4,True
+SBIN,State Bank of India,Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,70.3,True
+SBIN,State Bank of India,Financials,con,C09,Negative operating margin,The latest annual period reports a negative operating margin.,83.7,True
+SBIN,State Bank of India,Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+SHREECEM,Shree Cement Ltd,Materials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+SHREECEM,Shree Cement Ltd,Materials,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+SHREECEM,Shree Cement Ltd,Materials,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,89.8,True
+SHREECEM,Shree Cement Ltd,Materials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,80.3,True
+SHREECEM,Shree Cement Ltd,Materials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,81.3,True
+SHREECEM,Shree Cement Ltd,Materials,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.9,True
+SHREECEM,Shree Cement Ltd,Materials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,92.0,True
+SHREECEM,Shree Cement Ltd,Materials,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,85.1,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,88.6,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,93.5,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,74.0,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,con,C03,Interest coverage < 1.5x,"Interest coverage is low, indicating limited headroom against finance costs.",70.7,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,74.1,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,74.2,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",74.0,True
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True
+SIEMENS,Siemens Ltd,,pro,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+SIEMENS,Siemens Ltd,,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,85.1,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,85.6,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,80.8,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,94.5,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.3,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.2,True
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,86.0,True
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,91.6,True
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,71.6,True
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,85.0,True
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,con,C04,ROE below 8%,Return on equity is below 8% in the latest annual ratio record.,77.6,True
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,83.1,True
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,86.8,True
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,76.5,True
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,72.1,True
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,83.6,True
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,71.3,True
+TATAPOWER,"Tata Power Company Ltd
+",Energy,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+TATAPOWER,"Tata Power Company Ltd
+",Energy,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,73.1,True
+TATAPOWER,"Tata Power Company Ltd
+",Energy,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,85.5,True
+TATAPOWER,"Tata Power Company Ltd
+",Energy,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,80.4,True
+TATAPOWER,"Tata Power Company Ltd
+",Energy,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,72.9,True
+TATAPOWER,"Tata Power Company Ltd
+",Energy,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,87.5,True
+TATAPOWER,"Tata Power Company Ltd
+",Energy,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,71.7,True
+TATASTEEL,"Tata Steel Ltd
+",Materials,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+TATASTEEL,"Tata Steel Ltd
+",Materials,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,79.7,True
+TATASTEEL,"Tata Steel Ltd
+",Materials,con,C04,ROE below 8%,Return on equity is below 8% in the latest annual ratio record.,75.3,True
+TATASTEEL,"Tata Steel Ltd
+",Materials,con,C05,ROCE below 8%,Return on capital is below 8% in the latest annual ratio record.,76.9,True
+TATASTEEL,"Tata Steel Ltd
+",Materials,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,74.1,True
+TATASTEEL,"Tata Steel Ltd
+",Materials,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,84.8,True
+TCS,Tata Consultancy Services Ltd,Information Technology,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+TCS,Tata Consultancy Services Ltd,Information Technology,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,95.0,True
+TCS,Tata Consultancy Services Ltd,Information Technology,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+TCS,Tata Consultancy Services Ltd,Information Technology,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+TCS,Tata Consultancy Services Ltd,Information Technology,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,95.0,True
+TCS,Tata Consultancy Services Ltd,Information Technology,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,80.5,True
+TCS,Tata Consultancy Services Ltd,Information Technology,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+TCS,Tata Consultancy Services Ltd,Information Technology,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+TCS,Tata Consultancy Services Ltd,Information Technology,pro,P12,ROE above sector median,The company's ROCE sector percentile is in the top quartile of its sector.,95.0,True
+TCS,Tata Consultancy Services Ltd,Information Technology,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+TECHM,Tech Mahindra Ltd,Information Technology,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+TECHM,Tech Mahindra Ltd,Information Technology,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.1,True
+TECHM,Tech Mahindra Ltd,Information Technology,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,83.9,True
+TECHM,Tech Mahindra Ltd,Information Technology,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,72.7,True
+TECHM,Tech Mahindra Ltd,Information Technology,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,78.7,True
+TECHM,Tech Mahindra Ltd,Information Technology,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+TECHM,Tech Mahindra Ltd,Information Technology,con,C07,Negative PAT CAGR 5Y,Five-year profit CAGR is negative in the available annual history.,81.0,True
+TECHM,Tech Mahindra Ltd,Information Technology,con,C12,ROCE sector percentile below 25,ROCE ranks in the bottom quartile of the supplied sector comparison.,71.7,True
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,88.9,True
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,79.4,True
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,90.9,True
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,90.3,True
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,80.4,True
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,71.7,True
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,70.5,True
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,94.2,True
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,93.5,True
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,79.9,True
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,pro,P08,CFO/PAT >= 1,Operating cash generation is at least as high as reported profit.,72.0,True
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,95.0,True
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,pro,P11,FCF conversion >= 70%,Cash conversion from operating profit is comparatively strong.,95.0,True
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+TRENT,Trent Ltd,Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+TRENT,Trent Ltd,Consumer Discretionary,pro,P02,ROCE >= 15%,High ROCE indicates efficient use of operating capital.,92.3,True
+TRENT,Trent Ltd,Consumer Discretionary,pro,P03,Positive free cash flow,The latest annual period reports positive free cash flow.,95.0,True
+TRENT,Trent Ltd,Consumer Discretionary,pro,P04,Debt/equity <= 0.5,The balance sheet shows relatively low debt compared with equity.,70.4,True
+TRENT,Trent Ltd,Consumer Discretionary,pro,P05,Interest coverage >= 3x,Reported interest coverage indicates capacity to meet finance costs.,78.0,True
+TRENT,Trent Ltd,Consumer Discretionary,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,95.0,True
+TRENT,Trent Ltd,Consumer Discretionary,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,95.0,True
+TRENT,Trent Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,85.9,True
+TRENT,Trent Ltd,Consumer Discretionary,con,DATA01,Limited financial data coverage,The supplied dataset does not contain enough valid metrics to assert a financial strength or weakness; review source coverage before drawing a conclusion.,65.0,True
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,pro,P01,ROE >= 15%,High return on equity indicates strong accounting returns on shareholder capital.,95.0,True
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,pro,P06,Revenue CAGR 5Y >= 10%,Revenue has compounded at least 10% annually over five years in the available statement history.,84.2,True
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,pro,P07,PAT CAGR 5Y >= 10%,Profit has compounded at least 10% annually over five years in the available statement history.,89.7,True
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,pro,P09,Positive operating margin,The latest annual period reports a positive operating margin.,84.1,True
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,con,C01,Negative free cash flow,The latest annual period reports negative free cash flow.,95.0,True
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,con,C02,Debt/equity > 1,Debt exceeds equity on the reported debt/equity measure.,73.8,True
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,con,C08,CFO/PAT < 0.5,Operating cash flow is weak relative to reported profit.,70.7,True
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,con,C10,High debt/equity > 2,"Leverage is elevated, with debt exceeding twice equity.",73.8,True
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,con,C11,FCF conversion < 0,Free-cash-flow conversion is negative in the latest annual ratio record.,95.0,True

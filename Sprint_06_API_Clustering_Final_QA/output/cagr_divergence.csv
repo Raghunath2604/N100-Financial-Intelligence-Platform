@@ -1,0 +1,9 @@
+company_id,metric,period_years,source_pct,computed_pct,absolute_divergence_pct_points,divergence_flag
+HDFCBANK,revenue,5,22.0,21.95098428169122,0.049015718308780265,False
+HDFCBANK,profit,5,23.0,23.865063572879073,0.8650635728790732,False
+INFY,revenue,5,13.0,,,False
+INFY,profit,5,11.0,,,False
+SBILIFE,revenue,5,24.0,,,False
+SBILIFE,profit,5,6.0,,,False
+TCS,revenue,5,10.0,,,False
+TCS,profit,5,8.0,,,False

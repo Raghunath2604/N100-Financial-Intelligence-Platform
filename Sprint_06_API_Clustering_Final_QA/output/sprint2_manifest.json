@@ -1,0 +1,28 @@
+{
+  "sprint": 2,
+  "companies": 92,
+  "financial_ratio_rows": 1155,
+  "kpi_fields": 64,
+  "tests_passed": 103,
+  "tests_failed": 0,
+  "foreign_key_violations": 0,
+  "roe_manual_spotchecks": 5,
+  "roe_max_abs_difference": 0.0,
+  "revenue_cagr_5y_manual_spotchecks": 3,
+  "revenue_cagr_5y_max_abs_difference": 0.0,
+  "screener_preview_count": 35,
+  "screener_preview_filter": "ROE > 15%, D/E < 1, excluding financial sector",
+  "capital_allocation_labels": [
+    "Self-Funded Reinvestment & Returns",
+    "Growth-Funded by External Capital",
+    "Insufficient Cash Flow Data",
+    "Distress / External Funding",
+    "Cash Harvesting & Debt/Dividend Payment",
+    "Operating Stress with Asset Sales & Funding",
+    "Asset Liquidation During Operating Stress",
+    "Severe Cash Burn",
+    "Mixed / Neutral Cash Flow",
+    "Cash Accumulation with Financing"
+  ],
+  "source_ratio_reference_rows": 1184
+}
