@@ -1,0 +1,28 @@
+{
+  "source_files": 12,
+  "source_rows": 12892,
+  "curated_tables": 12,
+  "companies": 92,
+  "curated_rows_loaded": 12454,
+  "quarantined_rows": 438,
+  "critical_dq_findings": 0,
+  "warning_dq_findings": 1044,
+  "info_dq_findings": 436,
+  "foreign_key_violations": 0,
+  "tests_passed": 44,
+  "tests_failed": 0,
+  "manual_review_tickers": [
+    "TCS",
+    "HDFCBANK",
+    "RELIANCE",
+    "INFY",
+    "SUNPHARMA"
+  ],
+  "deferred_to_sprint_2": [
+    "ticker reconciliation",
+    "source financial anomaly review",
+    "annual report URL reachability",
+    "non-standard period policy",
+    "table-count wording confirmation"
+  ]
+}

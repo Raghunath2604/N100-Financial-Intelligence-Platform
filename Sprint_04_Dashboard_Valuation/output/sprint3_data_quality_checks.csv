@@ -1,0 +1,15 @@
+rule_id,check,status,observed,expected
+DQ3-01,Unique company screener rows,PASS,92,one row per company
+DQ3-02,Full company universe coverage,PASS,92,92 companies
+DQ3-03,Company names populated,PASS,92,92 populated names
+DQ3-04,Annual period or explicit fallback,PASS,1,fallbacks flagged
+DQ3-05,Eleven peer groups represented,PASS,11,11
+DQ3-06,Peer percentile values bounded,PASS,539,0-100
+DQ3-07,Ten peer metrics calculated,PASS,10,10
+DQ3-08,Composite score populated and bounded,PASS,92,92 values in 0-100
+DQ3-09,Sector-relative score bounded,PASS,92,0-100
+DQ3-10,Market capitalisation positive,PASS,92,positive
+DQ3-11,PE ratio positive,PASS,92,positive
+DQ3-12,PB ratio positive,PASS,92,positive
+DQ3-13,Six screener tabs,PASS,6,6
+DQ3-14,Peer workbook and radar coverage,PASS,"11 tabs, 92 charts","11 tabs, 92 charts"

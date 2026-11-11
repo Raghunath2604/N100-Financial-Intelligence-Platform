@@ -1,0 +1,15 @@
+{
+  "companies": 92,
+  "peer_groups": 11,
+  "peer_metrics": 10,
+  "peer_percentile_rows": 560,
+  "radar_charts": 92,
+  "preset_result_counts": {
+    "Quality Compounder": 22,
+    "Value Pick": 2,
+    "Growth Accelerator": 19,
+    "Dividend Champion": 29,
+    "Debt-Free Blue Chip": 18,
+    "Turnaround Watch": 31
+  }
+}
