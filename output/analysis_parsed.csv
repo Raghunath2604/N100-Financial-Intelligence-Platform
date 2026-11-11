@@ -1,0 +1,52 @@
+company_id,source_row_id,source_field,metric,period_years,parsed_pct,source_text
+HDFCBANK,1,compounded_sales_growth,revenue,10,21.0,10 Years: 21%
+HDFCBANK,1,compounded_profit_growth,profit,10,22.0,10 Years: 22%
+HDFCBANK,1,stock_price_cagr,stock_price,10,15.0,10 Years:     15%
+HDFCBANK,1,roe,roe,10,17.0,10 Years:     17%
+HDFCBANK,2,compounded_sales_growth,revenue,5,22.0,5 Years:       22%
+HDFCBANK,2,compounded_profit_growth,profit,5,23.0,5 Years:           23%
+HDFCBANK,2,stock_price_cagr,stock_price,5,8.0,      5 Years:       8%
+HDFCBANK,2,roe,roe,5,17.0,5 Years:       17%
+HDFCBANK,3,compounded_sales_growth,revenue,3,30.0,3 Years:       30%
+HDFCBANK,3,compounded_profit_growth,profit,3,26.0,3 Years:           26%
+HDFCBANK,3,stock_price_cagr,stock_price,3,8.0,      3 Years:       8%
+HDFCBANK,3,roe,roe,3,17.0,3 Years:       17%
+HDFCBANK,4,stock_price_cagr,stock_price,1,13.0,      1 Year:        13%
+INFY,5,compounded_sales_growth,revenue,10,12.0,10 Years:     12%
+INFY,5,compounded_profit_growth,profit,10,9.0,10 Years:         9%
+INFY,5,stock_price_cagr,stock_price,10,15.0,     10 Years:     15%
+INFY,5,roe,roe,10,27.0,10 Years:      27%
+INFY,6,compounded_sales_growth,revenue,5,13.0,5 Years:       13%
+INFY,6,compounded_profit_growth,profit,5,11.0,5 Years:           11%
+INFY,6,stock_price_cagr,stock_price,5,22.0,       5 Years:     22%
+INFY,6,roe,roe,5,29.0,5 Years:        29%
+INFY,7,compounded_sales_growth,revenue,3,5.0,3 Years:       5%
+INFY,7,compounded_profit_growth,profit,3,10.0,3 Years:           10%
+INFY,7,stock_price_cagr,stock_price,3,4.0,       3 Years:     4%
+INFY,7,roe,roe,3,31.0,3 Years:        31%
+INFY,8,stock_price_cagr,stock_price,1,27.0,       1 Year:       27%
+SBILIFE,9,compounded_sales_growth,revenue,10,23.0,10 Years:     23%
+SBILIFE,9,compounded_profit_growth,profit,10,9.0,10 Years:          9%
+SBILIFE,9,stock_price_cagr,stock_price,10,9.0,    10 Years:      9%
+SBILIFE,9,roe,roe,10,16.0,10 Years:      16%
+SBILIFE,10,compounded_sales_growth,revenue,5,24.0,5 Years:       24%
+SBILIFE,10,compounded_profit_growth,profit,5,6.0,5 Years:            6%
+SBILIFE,10,stock_price_cagr,stock_price,5,8.0,     5 Years:       8%
+SBILIFE,10,roe,roe,5,14.0,5 Years          14%
+SBILIFE,11,compounded_sales_growth,revenue,3,17.0,3 Years:       17%
+SBILIFE,11,compounded_profit_growth,profit,3,9.0,3 Years:            9%
+SBILIFE,11,stock_price_cagr,stock_price,3,7.0,     3 Years:       7%
+SBILIFE,11,roe,roe,3,13.0,3 Years:         13%
+TCS,13,compounded_sales_growth,revenue,10,11.0,10 Years:     11%             
+TCS,13,compounded_profit_growth,profit,10,9.0,10 Years:          9%
+TCS,13,stock_price_cagr,stock_price,10,14.0,    10 Years:      14%
+TCS,13,roe,roe,10,40.0,10 Years:       40%
+TCS,14,compounded_sales_growth,revenue,5,10.0,5 Years:       10%             
+TCS,14,compounded_profit_growth,profit,5,8.0,5 Years:            8%
+TCS,14,stock_price_cagr,stock_price,5,16.0,      5 Years:      16%
+TCS,14,roe,roe,5,44.0,5 Years:          44%
+TCS,15,compounded_sales_growth,revenue,3,14.0,3 Years:       14%             
+TCS,15,compounded_profit_growth,profit,3,12.0,3 Years:            12%
+TCS,15,stock_price_cagr,stock_price,3,8.0,      3 Years:      8%
+TCS,15,roe,roe,3,47.0,3 Years:          47%
+TCS,16,stock_price_cagr,stock_price,1,16.0,      1 Year:       16%

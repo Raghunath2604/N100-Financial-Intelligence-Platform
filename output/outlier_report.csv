@@ -1,0 +1,11 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+IOC,1,Balanced Operators,4.7622816761105184
+KOTAKBANK,2,High-Growth Leaders,3.994619832916803
+HDFCBANK,2,High-Growth Leaders,3.6195151890414947
+CANBK,2,High-Growth Leaders,2.9425289313936025
+SBIN,0,Leveraged Challengers,2.6217385127606003
+LICI,4,Cash-Flow Resilient Firms,2.1248249405747615
+BANKBARODA,2,High-Growth Leaders,1.9933047325519417
+IRCTC,1,Balanced Operators,1.9539711147522634
+ABB,0,Leveraged Challengers,1.8903354303489721
+ICICIBANK,2,High-Growth Leaders,1.7038406021407377

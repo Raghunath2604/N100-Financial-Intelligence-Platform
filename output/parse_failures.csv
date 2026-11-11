@@ -1,0 +1,14 @@
+company_id,source_row_id,source_field,source_text,failure_reason
+HDFCBANK,4,compounded_sales_growth,TTM:            47%,No N Years: X% pattern
+HDFCBANK,4,compounded_profit_growth,TTM:                27%,No N Years: X% pattern
+HDFCBANK,4,roe,Last Year:    17%,No N Years: X% pattern
+INFY,8,compounded_sales_growth,TTM:            3%,No N Years: X% pattern
+INFY,8,compounded_profit_growth,TTM:                 8%,No N Years: X% pattern
+INFY,8,roe,Last Year:     32%,No N Years: X% pattern
+SBILIFE,12,compounded_sales_growth,TTM:            43%,No N Years: X% pattern
+SBILIFE,12,compounded_profit_growth,TTM:                 18%,No N Years: X% pattern
+SBILIFE,12,stock_price_cagr,     1 Year:         -2%,No N Years: X% pattern
+SBILIFE,12,roe,Last Year:      12%,No N Years: X% pattern
+TCS,16,compounded_sales_growth,TTM:            5%             ,No N Years: X% pattern
+TCS,16,compounded_profit_growth,TTM:                 8%,No N Years: X% pattern
+TCS,16,roe,Last Year:       52%,No N Years: X% pattern

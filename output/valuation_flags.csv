@@ -1,0 +1,110 @@
+company_id,company_name,broad_sector,pe_ratio,sector_median_pe,pe_to_sector_median,valuation_flag
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,14.22,38.005,0.3741612945665044,Potential discount: PE < 0.7x sector median
+SHREECEM,Shree Cement Ltd,Materials,25.87,55.62,0.4651204602660914,Potential discount: PE < 0.7x sector median
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,72.53,38.005,1.9084331009077753,Caution: PE > 1.5x sector median
+TECHM,Tech Mahindra Ltd,Information Technology,57.4,63.63,0.902090209020902,In line / insufficient benchmark
+HAL,Hindustan Aeronautics Ltd,Industrials,71.89,47.155,1.5245467076662071,Caution: PE > 1.5x sector median
+IRFC,Indian Railway Finance Corporation Ltd,Financials,9.81,34.24,0.2865070093457944,Potential discount: PE < 0.7x sector median
+JSWSTEEL,JSW Steel Ltd,Materials,69.27,55.62,1.2454153182308523,In line / insufficient benchmark
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,58.43,38.005,1.5374292856203131,Caution: PE > 1.5x sector median
+HAVELLS,Havells India Ltd,Industrials,45.41,47.155,0.9629943802353939,In line / insufficient benchmark
+BAJFINANCE,Bajaj Finance Ltd,Financials,69.2,34.24,2.0210280373831777,Caution: PE > 1.5x sector median
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,11.73,47.06,0.24925626859328517,Potential discount: PE < 0.7x sector median
+SBIN,State Bank of India,Financials,54.93,34.24,1.6042640186915886,Caution: PE > 1.5x sector median
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,37.73,34.24,1.1019275700934579,In line / insufficient benchmark
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,73.37,55.62,1.3191298094210717,In line / insufficient benchmark
+PFC,Power Finance Corporation Ltd,Financials,35.6,34.24,1.0397196261682242,In line / insufficient benchmark
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,47.72,47.06,1.0140246493837652,In line / insufficient benchmark
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,15.07,34.24,0.44012850467289716,Potential discount: PE < 0.7x sector median
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,46.4,47.06,0.9859753506162345,In line / insufficient benchmark
+PNB,Punjab National Bank,Financials,19.29,34.24,0.563376168224299,Potential discount: PE < 0.7x sector median
+INDUSINDBK,IndusInd Bank Ltd,Financials,8.99,34.24,0.26255841121495327,Potential discount: PE < 0.7x sector median
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,10.13,38.005,0.266543875805815,Potential discount: PE < 0.7x sector median
+NHPC,"NHPC Ltd
+",Energy,71.17,44.915,1.584548591784482,Caution: PE > 1.5x sector median
+NESTLEIND,Nestle India Ltd,Consumer Staples,54.96,50.95,1.0787046123650637,In line / insufficient benchmark
+TATAPOWER,"Tata Power Company Ltd
+",Energy,14.5,44.915,0.32283201603027945,Potential discount: PE < 0.7x sector median
+DIVISLAB,Divis Laboratories Ltd,Healthcare,69.95,47.06,1.4864003399915002,In line / insufficient benchmark
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,20.83,34.24,0.6083528037383177,Potential discount: PE < 0.7x sector median
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,53.86,38.005,1.4171819497434548,In line / insufficient benchmark
+ABB,Abbott India Ltd,Industrials,75.58,47.155,1.6027992789735976,Caution: PE > 1.5x sector median
+ATGL,Adani Total Gas Ltd,Energy,56.96,44.915,1.268173216074808,In line / insufficient benchmark
+GAIL,GAIL (India) Ltd,Energy,25.84,44.915,0.5753089168429255,Potential discount: PE < 0.7x sector median
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,67.07,38.005,1.7647677937113535,Caution: PE > 1.5x sector median
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,20.78,38.005,0.5467701618208131,Potential discount: PE < 0.7x sector median
+IOC,"Indian Oil Corporation
+",Energy,28.61,44.915,0.6369809640431927,Potential discount: PE < 0.7x sector median
+JIOFIN,Jio Financial Services Ltd,Financials,34.24,34.24,1.0,In line / insufficient benchmark
+DLF,DLF Ltd,Real Estate,46.26,49.105000000000004,0.942062926382242,Insufficient valuation data
+ADANIPOWER,Adani Power Ltd,Energy,44.57,44.915,0.9923188244461761,In line / insufficient benchmark
+BEL,Bharat Electronics Ltd,Industrials,17.89,47.155,0.3793871275580532,Potential discount: PE < 0.7x sector median
+LTIM,LTIMindtree Ltd,Information Technology,64.52,63.63,1.013987112997014,In line / insufficient benchmark
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,37.9,47.06,0.8053548661283467,In line / insufficient benchmark
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,33.59,50.95,0.6592737978410207,Potential discount: PE < 0.7x sector median
+ICICIBANK,ICICI Bank Ltd,Financials,25.76,34.24,0.7523364485981309,In line / insufficient benchmark
+AMBUJACEM,Ambuja Cements Ltd,Materials,55.62,55.62,1.0,In line / insufficient benchmark
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,49.0,34.24,1.4310747663551402,In line / insufficient benchmark
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,60.44,38.005,1.5903170635442703,Caution: PE > 1.5x sector median
+LODHA,Macrotech Developers Ltd,Real Estate,51.95,49.105000000000004,1.0579370736177578,Insufficient valuation data
+SIEMENS,Siemens Ltd,Industrials,33.32,47.155,0.7066058742445127,In line / insufficient benchmark
+LT,Larsen & Toubro Ltd,Industrials,30.8,47.155,0.6531650938394656,Potential discount: PE < 0.7x sector median
+INFY,Infosys Ltd,Information Technology,35.99,63.63,0.5656137042275656,Potential discount: PE < 0.7x sector median
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,76.23,38.005,2.0057887120115776,Caution: PE > 1.5x sector median
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,16.79,34.24,0.49036214953271023,Potential discount: PE < 0.7x sector median
+AXISBANK,Axis Bank Ltd,Financials,38.14,34.24,1.1139018691588785,In line / insufficient benchmark
+NTPC,NTPC Ltd,Energy,30.8,44.915,0.6857397306022487,Potential discount: PE < 0.7x sector median
+SBILIFE,SBI Life Insurance Company Ltd,Financials,69.98,34.24,2.043808411214953,Caution: PE > 1.5x sector median
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,68.53,34.24,2.0014602803738315,Caution: PE > 1.5x sector median
+HDFCBANK,HDFC Bank Ltd,Financials,49.42,34.24,1.4433411214953271,In line / insufficient benchmark
+HINDALCO,Hindalco Industries Ltd,Materials,56.45,55.62,1.0149226896799712,In line / insufficient benchmark
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,48.9,47.155,1.037005619764606,In line / insufficient benchmark
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,29.91,38.005,0.7870017103012761,In line / insufficient benchmark
+BANKBARODA,Bank of Baroda,Financials,16.89,34.24,0.4932827102803738,Potential discount: PE < 0.7x sector median
+TRENT,Trent Ltd,Consumer Discretionary,8.65,38.005,0.22760163136429418,Potential discount: PE < 0.7x sector median
+NAUKRI,Info Edge (India) Ltd,Communication Services,32.88,48.33,0.6803227808814402,Insufficient valuation data
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,34.51,50.95,0.6773307163886162,Potential discount: PE < 0.7x sector median
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,29.8,47.155,0.6319584349485738,Potential discount: PE < 0.7x sector median
+ADANIGREEN,Adani Green Energy Ltd,Energy,45.26,44.915,1.007681175553824,In line / insufficient benchmark
+CANBK,Canara Bank,Financials,36.74,34.24,1.0730140186915889,In line / insufficient benchmark
+GRASIM,Grasim Industries Ltd,Industrials,79.35,47.155,1.6827483829922594,Caution: PE > 1.5x sector median
+BPCL,Bharat Petroleum Corporation Ltd,Energy,68.15,44.915,1.5173104753423134,Caution: PE > 1.5x sector median
+TCS,Tata Consultancy Services Ltd,Information Technology,78.69,63.63,1.2366808109382366,In line / insufficient benchmark
+COALINDIA,Coal India Ltd,Materials,34.27,55.62,0.6161452714850774,Potential discount: PE < 0.7x sector median
+CIPLA,"Cipla Ltd
+",Healthcare,59.75,47.06,1.2696557586060349,In line / insufficient benchmark
+RELIANCE,"Reliance Industries Ltd
+",Energy,58.34,44.915,1.2988979182901037,In line / insufficient benchmark
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,32.9,34.24,0.9608644859813084,In line / insufficient benchmark
+HCLTECH,HCL Technologies Ltd,Information Technology,63.63,63.63,1.0,In line / insufficient benchmark
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,77.64,55.62,1.395900755124056,In line / insufficient benchmark
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,18.15,44.915,0.4040966269620394,Potential discount: PE < 0.7x sector median
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,63.78,48.33,1.31967721911856,Insufficient valuation data
+POWERGRID,Power Grid Corporation of India Ltd,Energy,64.39,44.915,1.4335967939441168,In line / insufficient benchmark
+TATASTEEL,"Tata Steel Ltd
+",Materials,48.97,55.62,0.8804386911183028,In line / insufficient benchmark
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,54.79,50.95,1.075368007850834,In line / insufficient benchmark
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,58.5,44.915,1.3024602026049203,In line / insufficient benchmark
+ITC,"ITC Ltd
+",Consumer Staples,47.85,50.95,0.9391560353287537,In line / insufficient benchmark
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,63.91,50.95,1.2543670264965652,In line / insufficient benchmark
+RECLTD,REC Ltd,Financials,31.49,34.24,0.9196845794392522,In line / insufficient benchmark
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,46.1,38.005,1.2129982896987237,In line / insufficient benchmark
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,15.62,38.005,0.41099855282199704,Potential discount: PE < 0.7x sector median
+ADANIENT,Adani Enterprises Ltd,Industrials,58.87,47.155,1.2484360089067967,In line / insufficient benchmark
+LICI,Life Insurance Corporation of India,Financials,30.67,34.24,0.8957359813084113,In line / insufficient benchmark
+PIDILITIND,Pidilite Industries Ltd,Materials,36.12,55.62,0.6494066882416397,Potential discount: PE < 0.7x sector median
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,9.54,38.005,0.25101960268385737,Potential discount: PE < 0.7x sector median
+JSWENERGY,JSW Energy Ltd,Energy,24.79,44.915,0.5519314260269398,Potential discount: PE < 0.7x sector median
+DABUR,Dabur India Ltd,Consumer Staples,50.95,50.95,1.0,In line / insufficient benchmark
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,50.59,34.24,1.4775116822429906,In line / insufficient benchmark

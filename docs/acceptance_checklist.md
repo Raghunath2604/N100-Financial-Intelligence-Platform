@@ -1,0 +1,22 @@
+# Sprint 6 Acceptance Checklist
+
+- [x] 1. **Health endpoint** — 200
+- [x] 2. **Company list endpoint** — 200
+- [x] 3. **Company profile endpoint** — 200
+- [x] 4. **P&L endpoint** — 200
+- [x] 5. **Balance sheet endpoint** — 200
+- [x] 6. **Cash flow endpoint** — 200
+- [x] 7. **Ratios endpoint** — 200
+- [x] 8. **Tearsheet endpoint** — route reachable
+- [x] 9. **Screener endpoint** — 200
+- [x] 10. **Sector list endpoint** — 200
+- [x] 11. **Sector company endpoint** — 200
+- [x] 12. **Peer list endpoint** — 200
+- [x] 13. **Peer comparison endpoint** — 200
+- [x] 14. **Market cap history endpoint** — 200
+- [x] 15. **Portfolio stats endpoint** — 200
+- [x] 16. **Documents endpoint** — 200
+- [x] 17. **OpenAPI export** — export and live schema
+- [x] 18. **Exactly five KMeans clusters** — 5
+- [x] 19. **All 92 companies labelled** — 92 unique labels
+- [x] 20. **Clustering QA artefacts** — all four files present

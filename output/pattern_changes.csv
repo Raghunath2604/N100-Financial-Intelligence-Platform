@@ -1,0 +1,169 @@
+company_id,from_year,to_year,dimension,previous_value,current_value
+ABB,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Self-Funded Reinvestment & Returns
+ABB,2023-03,2024-03,Debt/equity,0.03544542032622334,0.022438496891051634
+ADANIENSOL,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Self-Funded Reinvestment & Returns
+ADANIENSOL,2023-03,2024-03,Debt/equity,2.916843986722274,2.93252116130053
+ADANIENT,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Growth-Funded by External Capital
+ADANIENT,2023-03,2024-03,Debt/equity,1.6096335965628876,1.671358378544375
+ADANIGREEN,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Growth-Funded by External Capital
+ADANIGREEN,2023-03,2024-03,Cash-flow quality,Accrual Risk,High Quality
+ADANIGREEN,2023-03,2024-03,Debt/equity,7.423740416210296,6.595281675818589
+ADANIPORTS,2023-03,2024-03,Debt/equity,1.1772455881380952,0.9373223691689719
+ADANIPOWER,2023-03,2024-03,Cash-flow quality,Accrual Risk,High Quality
+ADANIPOWER,2023-03,2024-03,Debt/equity,1.4175257731958764,0.8023177656738903
+AMBUJACEM,2023-03,2024-03,Debt/equity,0.016499463688560794,0.01686125048243921
+APOLLOHOSP,2023-03,2024-03,CapEx intensity,Moderate,Capital Intensive
+APOLLOHOSP,2023-03,2024-03,Debt/equity,0.6989351403678606,0.7688869665513264
+ASIANPAINT,2023-03,2024-03,Debt/equity,0.12087293646823412,0.1321016659547202
+ATGL,2023-03,2024-03,Debt/equity,0.48350901054063244,0.43491620111731844
+AXISBANK,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Distress / External Funding
+AXISBANK,2023-03,2024-03,Debt/equity,8.876784737365254,8.249122739980766
+BAJAJ-AUTO,2023-03,2024-03,Capital allocation pattern,Cash Harvesting & Debt/Dividend Payment,Self-Funded Reinvestment & Returns
+BAJAJ-AUTO,2023-03,2024-03,CapEx intensity,Moderate,Asset Light
+BAJAJ-AUTO,2023-03,2024-03,Debt/equity,0.004223145562291397,0.06601754022512257
+BAJAJFINSV,2023-03,2024-03,Debt/equity,4.573986683043507,4.789368120938867
+BAJAJHLDNG,2023-03,2024-03,Debt/equity,0.0021049296093431716,0.0011613545449517945
+BAJFINANCE,2023-03,2024-03,Debt/equity,3.985323328183624,3.824788776468134
+BANKBARODA,2023-03,2024-03,Capital allocation pattern,Severe Cash Burn,Distress / External Funding
+BANKBARODA,2023-03,2024-03,Debt/equity,12.77989624482414,12.143718727289434
+BEL,2023-03,2024-03,Capital allocation pattern,Cash Harvesting & Debt/Dividend Payment,Self-Funded Reinvestment & Returns
+BEL,2023-03,2024-03,Debt/equity,0.52,0.5119047619047619
+BHARTIARTL,2023-03,2024-03,Debt/equity,2.914018281912768,2.6094723973904306
+BHEL,2023-03,2024-03,Debt/equity,0.22372631060792517,0.36238644733611586
+BOSCHLTD,2023-03,2024-03,Cash-flow quality,High Quality,Moderate
+BOSCHLTD,2023-03,2024-03,Debt/equity,0.004812494324888767,0.003232758620689655
+BPCL,2023-03,2024-03,Debt/equity,1.2962146407084938,0.7218747934157467
+BRITANNIA,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Cash Harvesting & Debt/Dividend Payment
+BRITANNIA,2023-03,2024-03,CapEx intensity,Capital Intensive,Asset Light
+BRITANNIA,2023-03,2024-03,Debt/equity,0.8480475382003395,0.5239786856127886
+CANBK,2023-03,2024-03,Capital allocation pattern,Distress / External Funding,Self-Funded Reinvestment & Returns
+CANBK,2023-03,2024-03,Debt/equity,15.850052527737208,14.867419925542423
+CHOLAFIN,2023-03,2024-03,Debt/equity,6.786421302105117,6.863420609401317
+CIPLA,2023-03,2024-03,Debt/equity,0.03430597684453369,0.020931625851868495
+COALINDIA,2023-03,2024-03,CapEx intensity,Capital Intensive,Moderate
+COALINDIA,2023-03,2024-03,Debt/equity,0.07118320924346268,0.0788468512027076
+DABUR,2023-03,2024-03,Debt/equity,0.13083695531037556,0.13835394283397526
+DIVISLAB,2023-03,2024-03,CapEx intensity,Capital Intensive,Moderate
+DIVISLAB,2023-03,2024-03,Debt/equity,0.0003133077465340331,0.0002210596124088129
+DLF,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Growth-Funded by External Capital
+DLF,2023-03,2024-03,Debt/equity,0.08846551861384562,0.12259389820192235
+DMART,2023-03,2024-03,Debt/equity,0.039992536385122526,0.031661140228901485
+DRREDDY,2023-03,2024-03,Debt/equity,0.05784591600103066,0.07085722375592836
+EICHERMOT,2023-03,2024-03,Cash-flow quality,Moderate,High Quality
+EICHERMOT,2023-03,2024-03,Debt/equity,0.019212808539026016,0.023219728456636186
+GAIL,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Self-Funded Reinvestment & Returns
+GAIL,2023-03,2024-03,Cash-flow quality,Moderate,High Quality
+GAIL,2023-03,2024-03,Debt/equity,0.274400480539683,0.28304998896060884
+GODREJCP,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Growth-Funded by External Capital
+GODREJCP,2023-03,2024-03,Cash-flow quality,High Quality,Accrual Risk
+GODREJCP,2023-03,2024-03,Debt/equity,0.08191967522111063,0.2557548817272583
+GRASIM,2023-03,2024-03,Cash-flow quality,Moderate,Accrual Risk
+GRASIM,2023-03,2024-03,Debt/equity,1.3085646795864976,1.5470993649397087
+HAL,2023-03,2024-03,Debt/equity,0.2655367231638418,0.6180904522613065
+HAVELLS,2023-03,2024-03,Capital allocation pattern,Cash Harvesting & Debt/Dividend Payment,Self-Funded Reinvestment & Returns
+HAVELLS,2023-03,2024-03,Cash-flow quality,Moderate,High Quality
+HAVELLS,2023-03,2024-03,CapEx intensity,Asset Light,Capital Intensive
+HAVELLS,2023-03,2024-03,Debt/equity,0.03365529731361304,0.040687525177924
+HCLTECH,2023-03,2024-03,Debt/equity,0.07329714853604465,0.08435023365512796
+HDFCBANK,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Cash Harvesting & Debt/Dividend Payment
+HDFCBANK,2023-03,2024-03,CapEx intensity,Asset Light,Moderate
+HDFCBANK,2023-03,2024-03,Debt/equity,7.39091618930479,6.808786667718385
+HDFCLIFE,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Self-Funded Reinvestment & Returns
+HDFCLIFE,2023-03,2024-03,Debt/equity,0.07311629338874778,0.06477567162143734
+HEROMOTOCO,2023-03,2024-03,CapEx intensity,Asset Light,Moderate
+HEROMOTOCO,2023-03,2024-03,Debt/equity,0.034101825168107586,0.03423922255494661
+HINDALCO,2023-03,2024-03,Debt/equity,0.6359407632428328,0.5309290976579428
+HINDUNILVR,2023-03,2024-03,CapEx intensity,Asset Light,Capital Intensive
+HINDUNILVR,2023-03,2024-03,Debt/equity,0.024232665394402036,0.028974188761763442
+ICICIBANK,2023-03,2024-03,Capital allocation pattern,Distress / External Funding,Growth-Funded by External Capital
+ICICIBANK,2023-03,2024-03,Debt/equity,6.526373206276982,6.445624336310825
+ICICIGI,2023-03,2024-03,Debt/equity,0.003351206434316354,0.0028676771814829987
+ICICIPRULI,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Asset Liquidation During Operating Stress
+ICICIPRULI,2023-03,2024-03,Cash-flow quality,High Quality,Accrual Risk
+ICICIPRULI,2023-03,2024-03,CapEx intensity,Asset Light,Capital Intensive
+ICICIPRULI,2023-03,2024-03,Debt/equity,0.11892963330029732,0.10904134484325306
+INDIGO,2023-03,2024-03,CapEx intensity,Moderate,Capital Intensive
+INDIGO,2023-03,2024-03,Debt/equity,0.015444015444015444,0.018579234972677595
+INDUSINDBK,2023-03,2024-03,Capital allocation pattern,Distress / External Funding,Severe Cash Burn
+INDUSINDBK,2023-03,2024-03,Debt/equity,7.056662150781737,6.885742949503957
+INFY,2023-03,2024-03,CapEx intensity,Asset Light,Moderate
+INFY,2023-03,2024-03,Debt/equity,0.11005609558794277,0.09486358890553362
+IOC,2023-03,2024-03,Cash-flow quality,Moderate,High Quality
+IOC,2023-03,2024-03,Debt/equity,1.0662463051366653,0.7230954600718581
+IRCTC,2023-03,2024-03,Cash-flow quality,High Quality,Moderate
+IRCTC,2023-03,2024-03,CapEx intensity,Capital Intensive,Moderate
+IRCTC,2023-03,2024-03,Debt/equity,0.03389830508474576,0.018575851393188854
+IRFC,2023-03,2024-03,Capital allocation pattern,Mixed / Neutral Cash Flow,Self-Funded Reinvestment & Returns
+IRFC,2023-03,2024-03,Debt/equity,9.376133031937513,8.378352548852153
+ITC,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Cash Harvesting & Debt/Dividend Payment
+ITC,2023-03,2024-03,CapEx intensity,Capital Intensive,Asset Light
+ITC,2023-03,2024-03,Debt/equity,0.004424842744559323,0.004066731984914169
+JINDALSTEL,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Growth-Funded by External Capital
+JINDALSTEL,2023-03,2024-03,Cash-flow quality,Accrual Risk,High Quality
+JINDALSTEL,2023-03,2024-03,CapEx intensity,Moderate,Capital Intensive
+JINDALSTEL,2023-03,2024-03,Debt/equity,0.3370536867669095,0.3716941962270963
+JIOFIN,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Asset Liquidation During Operating Stress
+JIOFIN,2023-03,2024-03,Debt/equity,0.006510690501226779,0.0
+JSWENERGY,2023-03,2024-03,Debt/equity,1.3447313328681088,1.5156009984639016
+JSWSTEEL,2023-03,2024-03,CapEx intensity,Moderate,Capital Intensive
+JSWSTEEL,2023-03,2024-03,Debt/equity,1.2307329324910572,1.1328071688833383
+KOTAKBANK,2023-03,2024-03,Capital allocation pattern,Distress / External Funding,Growth-Funded by External Capital
+KOTAKBANK,2023-03,2024-03,Debt/equity,3.745568533457349,4.003739266919029
+LICI,2023-03,2024-03,CapEx intensity,Moderate,Asset Light
+LODHA,2023-03,2024-03,Capital allocation pattern,Cash Harvesting & Debt/Dividend Payment,Growth-Funded by External Capital
+LODHA,2023-03,2024-03,Debt/equity,0.7154702677090736,0.4406663232010991
+LT,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Cash Harvesting & Debt/Dividend Payment
+LT,2023-03,2024-03,CapEx intensity,Moderate,Asset Light
+LT,2023-03,2024-03,Debt/equity,0.09287608486017358,0.10345688880007993
+LTIM,2023-03,2024-03,CapEx intensity,Asset Light,Capital Intensive
+LTIM,2023-03,2024-03,Debt/equity,0.09287608486017358,0.10345688880007993
+M&M,2023-03,2024-03,Debt/equity,1.6365716921548452,1.6414413053331318
+MARUTI,2023-03,2024-03,CapEx intensity,Moderate,Capital Intensive
+MARUTI,2023-03,2024-03,Debt/equity,0.016729222520107237,0.001389602503619973
+MOTHERSON,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Growth-Funded by External Capital
+MOTHERSON,2023-03,2024-03,CapEx intensity,Asset Light,Moderate
+MOTHERSON,2023-03,2024-03,Debt/equity,0.6142882593978265,0.7616899254444657
+NAUKRI,2023-03,2024-03,Debt/equity,0.00806090461262875,0.008129006675038002
+NHPC,2023-03,2024-03,Debt/equity,0.7992208003030221,0.8413260296625498
+NTPC,2023-03,2024-03,Debt/equity,1.5161777408976826,1.475521125007778
+ONGC,2023-03,2024-03,Debt/equity,0.5068823112308345,0.45444863084819176
+PFC,2023-03,2024-03,CapEx intensity,Asset Light,Moderate
+PFC,2023-03,2024-03,Debt/equity,8.925568573397657,8.521864217426122
+PIDILITIND,2023-03,2024-03,CapEx intensity,Moderate,Capital Intensive
+PIDILITIND,2023-03,2024-03,Debt/equity,0.05421519689406545,0.045438325205186154
+PNB,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Distress / External Funding
+PNB,2023-03,2024-03,Debt/equity,4.895553729571807,3.684256345007701
+POWERGRID,2023-03,2024-03,Debt/equity,1.5487196781731023,1.4173456039290386
+RECLTD,2023-03,2024-03,CapEx intensity,Asset Light,Moderate
+RECLTD,2023-03,2024-03,Debt/equity,6.551789401238816,6.4249170872386445
+RELIANCE,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Self-Funded Reinvestment & Returns
+RELIANCE,2023-03,2024-03,Debt/equity,0.6309284341334763,0.5784524141094746
+SBIN,2023-03,2024-03,Capital allocation pattern,Distress / External Funding,Self-Funded Reinvestment & Returns
+SHREECEM,2023-03,2024-03,CapEx intensity,Capital Intensive,Moderate
+SHREECEM,2023-03,2024-03,Debt/equity,0.14622236531444516,0.07998840747717723
+SHRIRAMFIN,2023-03,2024-03,Capital allocation pattern,Operating Stress with Asset Sales & Funding,Distress / External Funding
+SHRIRAMFIN,2023-03,2024-03,CapEx intensity,Capital Intensive,Asset Light
+SHRIRAMFIN,2023-03,2024-03,Debt/equity,3.7737175951461666,3.994034363699512
+SUNPHARMA,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Self-Funded Reinvestment & Returns
+SUNPHARMA,2023-03,2024-03,CapEx intensity,Capital Intensive,Asset Light
+SUNPHARMA,2023-03,2024-03,Debt/equity,0.12297526564871863,0.051423814535002436
+TATACONSUM,2023-03,2024-03,Capital allocation pattern,Self-Funded Reinvestment & Returns,Growth-Funded by External Capital
+TATACONSUM,2023-03,2024-03,CapEx intensity,Moderate,Capital Intensive
+TATACONSUM,2023-03,2024-03,Debt/equity,0.09829821220126558,0.21654107242947002
+TATAMOTORS,2023-03,2024-03,Debt/equity,2.9591147786946737,1.2631244259167667
+TATAPOWER,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Self-Funded Reinvestment & Returns
+TATAPOWER,2023-03,2024-03,Debt/equity,1.8383701542309296,1.659321300531586
+TATASTEEL,2023-03,2024-03,Debt/equity,0.8235482431462331,0.9461835171402184
+TCS,2023-03,2024-03,Debt/equity,0.08502167566132886,0.0886406082507266
+TECHM,2023-03,2024-03,Debt/equity,0.09812347801174617,0.09512917619708275
+TITAN,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Self-Funded Reinvestment & Returns
+TITAN,2023-03,2024-03,CapEx intensity,Moderate,Asset Light
+TITAN,2023-03,2024-03,Debt/equity,0.7903974348156274,1.653145959757266
+TORNTPHARM,2023-03,2024-03,Capital allocation pattern,Growth-Funded by External Capital,Self-Funded Reinvestment & Returns
+TORNTPHARM,2023-03,2024-03,CapEx intensity,Capital Intensive,Asset Light
+TORNTPHARM,2023-03,2024-03,Debt/equity,0.8662471765085511,0.5866394399066511
+TRENT,2023-03,2024-03,Cash-flow quality,High Quality,Moderate
+TRENT,2023-03,2024-03,CapEx intensity,Asset Light,Moderate
+TRENT,2023-03,2024-03,Debt/equity,1.7195685670261942,0.4309242871189774
+TVSMOTOR,2023-03,2024-03,CapEx intensity,Moderate,Asset Light
+TVSMOTOR,2023-03,2024-03,Debt/equity,4.064668483197093,3.833431603773585

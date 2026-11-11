@@ -1,0 +1,284 @@
+{
+  "info": {
+    "name": "N100 Financial Intelligence API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "/health",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/health",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "health"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/companies",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/companies",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "companies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/companies/RELIANCE",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/companies/RELIANCE",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "companies",
+            "RELIANCE"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/companies/RELIANCE/profit-loss",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/companies/RELIANCE/profit-loss",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "companies",
+            "RELIANCE",
+            "profit-loss"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/companies/RELIANCE/balance-sheet",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/companies/RELIANCE/balance-sheet",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "companies",
+            "RELIANCE",
+            "balance-sheet"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/companies/RELIANCE/cash-flow",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/companies/RELIANCE/cash-flow",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "companies",
+            "RELIANCE",
+            "cash-flow"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/companies/RELIANCE/ratios",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/companies/RELIANCE/ratios",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "companies",
+            "RELIANCE",
+            "ratios"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/companies/RELIANCE/tearsheet",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/companies/RELIANCE/tearsheet",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "companies",
+            "RELIANCE",
+            "tearsheet"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/screener",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/screener",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "screener"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/sectors",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/sectors",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "sectors"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/sectors/Financials/companies",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/sectors/Financials/companies",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "sectors",
+            "Financials",
+            "companies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/peers/RELIANCE",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/peers/RELIANCE",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "peers",
+            "RELIANCE"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/peers/RELIANCE/comparison",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/peers/RELIANCE/comparison",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "peers",
+            "RELIANCE",
+            "comparison"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/valuation/market-cap-history/RELIANCE",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/valuation/market-cap-history/RELIANCE",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "valuation",
+            "market-cap-history",
+            "RELIANCE"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/portfolio/stats",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/portfolio/stats",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "portfolio",
+            "stats"
+          ]
+        }
+      }
+    },
+    {
+      "name": "/documents/RELIANCE",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8000/documents/RELIANCE",
+          "host": [
+            "127.0.0.1"
+          ],
+          "port": "8000",
+          "path": [
+            "documents",
+            "RELIANCE"
+          ]
+        }
+      }
+    }
+  ]
+}

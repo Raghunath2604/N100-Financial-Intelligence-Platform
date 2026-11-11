@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Root",
+    "method": "GET",
+    "path": "/",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 58.05,
+    "passed": true,
+    "payload_preview": "{'name': 'N100 Financial Intelligence API', 'docs': '/docs', 'openapi': '/openap"
+  },
+  {
+    "name": "Health",
+    "method": "GET",
+    "path": "/health",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 13.33,
+    "passed": true,
+    "payload_preview": "{'status': 'ok', 'database': 'connected'}"
+  },
+  {
+    "name": "Swagger Docs",
+    "method": "GET",
+    "path": "/docs",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 8.47,
+    "passed": true,
+    "payload_preview": "HTML(1030 bytes)"
+  },
+  {
+    "name": "OpenAPI Spec",
+    "method": "GET",
+    "path": "/openapi.json",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 27.11,
+    "passed": true,
+    "payload_preview": "{'openapi': '3.1.0', 'info': {'title': 'N100 Financial Intelligence API', 'descr"
+  },
+  {
+    "name": "Companies List",
+    "method": "GET",
+    "path": "/companies",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 18.46,
+    "passed": true,
+    "payload_preview": "[{'company_id': 'ABB', 'company_name': 'Abbott India Ltd', 'website': 'https://w"
+  },
+  {
+    "name": "Companies Pagination",
+    "method": "GET",
+    "path": "/companies?limit=5&offset=0",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 11.35,
+    "passed": true,
+    "payload_preview": "[{'company_id': 'ABB', 'company_name': 'Abbott India Ltd', 'website': 'https://w"
+  },
+  {
+    "name": "Company Profile Valid",
+    "method": "GET",
+    "path": "/companies/ABB",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 10.27,
+    "passed": true,
+    "payload_preview": "{'id': 'ABB', 'company_logo': 'https://mkt.in/static/mkt-icons/nifty100/ABB.png'"
+  },
+  {
+    "name": "Company Profile Invalid",
+    "method": "GET",
+    "path": "/companies/NONEXISTENT999",
+    "expected_status": 404,
+    "actual_status": 404,
+    "latency_ms": 10.36,
+    "passed": true,
+    "payload_preview": "{'detail': 'Company not found'}"
+  },
+  {
+    "name": "P&L Valid",
+    "method": "GET",
+    "path": "/companies/ABB/profit-loss",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 12.5,
+    "passed": true,
+    "payload_preview": "[{'id': 73, 'company_id': 'ABB', 'year': None, 'sales': 6066, 'expenses': 4519, "
+  },
+  {
+    "name": "Balance Sheet Valid",
+    "method": "GET",
+    "path": "/companies/ABB/balance-sheet",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 11.56,
+    "passed": true,
+    "payload_preview": "[{'id': 136, 'company_id': 'ABB', 'year': '2012-12', 'equity_capital': 21.0, 're"
+  },
+  {
+    "name": "Cash Flow Valid",
+    "method": "GET",
+    "path": "/companies/ABB/cash-flow",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 13.75,
+    "passed": true,
+    "payload_preview": "[{'id': 61, 'company_id': 'ABB', 'year': '2012-12', 'operating_activity': 101.0,"
+  },
+  {
+    "name": "Ratios Valid",
+    "method": "GET",
+    "path": "/companies/ABB/ratios",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 23.03,
+    "passed": true,
+    "payload_preview": "[{'id': 1, 'company_id': 'ABB', 'year': '2012-12', 'broad_sector': 'Industrials'"
+  },
+  {
+    "name": "Tearsheet Valid",
+    "method": "GET",
+    "path": "/companies/ABB/tearsheet",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 26.55,
+    "passed": true,
+    "payload_preview": "{'company': {'id': 'ABB', 'company_logo': 'https://mkt.in/static/mkt-icons/nifty"
+  },
+  {
+    "name": "Screener",
+    "method": "GET",
+    "path": "/screener",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 37.81,
+    "passed": true,
+    "payload_preview": "[{'company_id': 'PNB', 'company_name': 'Punjab National Bank', 'year': '2024-03'"
+  },
+  {
+    "name": "Screener Filter",
+    "method": "GET",
+    "path": "/screener?min_roe=15&max_de=1",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 27.0,
+    "passed": true,
+    "payload_preview": "[{'company_id': 'SIEMENS', 'company_name': 'Siemens Ltd', 'year': '2024-09', 're"
+  },
+  {
+    "name": "Sectors List",
+    "method": "GET",
+    "path": "/sectors",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 11.97,
+    "passed": true,
+    "payload_preview": "[{'broad_sector': 'Communication Services', 'company_count': 2, 'avg_index_weigh"
+  },
+  {
+    "name": "Sector Companies",
+    "method": "GET",
+    "path": "/sectors/Industrials/companies",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 11.32,
+    "passed": true,
+    "payload_preview": "[{'company_id': 'ABB', 'company_name': 'Abbott India Ltd', 'sub_sector': 'Capita"
+  },
+  {
+    "name": "Peers",
+    "method": "GET",
+    "path": "/peers/ABB",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 10.63,
+    "passed": true,
+    "payload_preview": "[]"
+  },
+  {
+    "name": "Peer Comparison",
+    "method": "GET",
+    "path": "/peers/ABB/comparison",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 9.75,
+    "passed": true,
+    "payload_preview": "[]"
+  },
+  {
+    "name": "Market Cap History",
+    "method": "GET",
+    "path": "/valuation/market-cap-history/ABB",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 14.01,
+    "passed": true,
+    "payload_preview": "[{'id': 1, 'company_id': 'ABB', 'year': '2019-03', 'market_cap_crore': 844312.98"
+  },
+  {
+    "name": "Portfolio Stats",
+    "method": "GET",
+    "path": "/portfolio/stats",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 23.01,
+    "passed": true,
+    "payload_preview": "[{'broad_sector': 'Communication Services', 'companies': 2, 'avg_roe': 6.1622771"
+  },
+  {
+    "name": "Documents",
+    "method": "GET",
+    "path": "/documents/ABB",
+    "expected_status": 200,
+    "actual_status": 200,
+    "latency_ms": 12.12,
+    "passed": true,
+    "payload_preview": "[{'company_id': 'ABB', 'year': '2024-03', 'annual_report': 'https://www.bseindia"
+  }
+]

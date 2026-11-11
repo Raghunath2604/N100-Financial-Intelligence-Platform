@@ -1,0 +1,102 @@
+[
+  {
+    "gate": "Health endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Company list endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Company profile endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "P&L endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Balance sheet endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Cash flow endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Ratios endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Tearsheet endpoint",
+    "passed": true,
+    "detail": "route reachable"
+  },
+  {
+    "gate": "Screener endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Sector list endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Sector company endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Peer list endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Peer comparison endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Market cap history endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Portfolio stats endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "Documents endpoint",
+    "passed": true,
+    "detail": "200"
+  },
+  {
+    "gate": "OpenAPI export",
+    "passed": true,
+    "detail": "export and live schema"
+  },
+  {
+    "gate": "Exactly five KMeans clusters",
+    "passed": true,
+    "detail": "5"
+  },
+  {
+    "gate": "All 92 companies labelled",
+    "passed": true,
+    "detail": "92 unique labels"
+  },
+  {
+    "gate": "Clustering QA artefacts",
+    "passed": true,
+    "detail": "all four files present"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "sprint": 5,
+  "companies": 92,
+  "pro_rules": 12,
+  "con_rules": 12,
+  "pros_cons_records": 802,
+  "companies_with_pro_and_con": 92,
+  "minimum_confidence_pct": 65.0,
+  "confidence_gt_60_all": true,
+  "analysis_parsed_rows": 51,
+  "parse_failures_logged": 13,
+  "cagr_comparisons": 8,
+  "cagr_divergence_over_5pp": 0,
+  "cashflow_summary_companies": 92,
+  "distress_alert_rows": 92,
+  "pattern_change_rows": 168,
+  "company_tearsheets": 92,
+  "company_tearsheet_pages": {
+    "2": 92
+  },
+  "minimum_tearsheet_bytes": 40833,
+  "sector_and_cross_sector_pdfs": 11,
+  "source_broad_sector_count": 10,
+  "portfolio_summary_exists": true,
+  "visual_spotchecks": 5,
+  "cumulative_tests_passed": 171,
+  "test_summary": "171 passed, 0 failed",
+  "python_compile_errors": 0,
+  "sqlite_foreign_key_violations": 0
+}
