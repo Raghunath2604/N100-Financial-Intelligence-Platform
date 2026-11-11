@@ -195,7 +195,7 @@ Documented in detail in `docs/KNOWN_LIMITATIONS.md`:
 
 ## 8. Final Sign-Off Recommendation
 
-Every technical, functional, and governance condition specified in the Master Engineering Specification has been satisfied:
+Every technical, functional, and governance condition specified in the Master Engineering Prompt has been satisfied:
 - Zero test failures (201/201 passed).
 - All 23 deliverables present at their canonical paths with non-zero size.
 - Live API and dashboard applications verified.

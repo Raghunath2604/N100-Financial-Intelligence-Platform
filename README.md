@@ -1,323 +1,156 @@
-<div align="center">
+# N100 Financial Intelligence Platform — Master Integrated Engineering Runbook
 
-# N100 Financial Intelligence Platform
-### Enterprise Fundamental Analysis, Quantitative Equity Screening & Analytics Engine for Nifty 100
-
-[![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Pytest](https://img.shields.io/badge/Tests-201%20Passed%20(100%25)-brightgreen?logo=pytest&logoColor=white)](reports/pytest_report.html)
-[![SQLite](https://img.shields.io/badge/Database-SQLite%203-003B57?logo=sqlite&logoColor=white)](data/nifty100.db)
-[![ReportLab](https://img.shields.io/badge/Reports-ReportLab%20PDF-D32F2F)](reports/tearsheets/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-An institutional-grade quantitative equity research platform engineered to process, normalize, analyze, screen, and visualize 12 historical financial statement datasets for the Nifty 100 universe.
-
-[Key Features](#key-features) • [Architecture](#system-architecture) • [Quickstart](#quickstart) • [API Reference](#fastapi-rest-service) • [Dashboard](#streamlit-intelligence-dashboard) • [Testing](#test-suite--qa)
-
-</div>
+**Enterprise Grade Financial Intelligence & Quantitative Screening Platform for Nifty 100 Equities**
 
 ---
 
-## System Architecture
+## 1. Executive Overview
 
-```
-                        ┌────────────────────────────────────────┐
-                        │      12 Raw Excel Datasets (Bluestock) │
-                        │  (P&L, BS, CF, Ratios, MCap, Sectors)  │
-                        └───────────────────┬────────────────────┘
-                                            │
-                                            ▼
-                             ┌─────────────────────────────┐
-                             │    ETL & Data Foundation    │
-                             │  - Strict Primary & FKs     │
-                             │  - Ticker & Date Normalizer │
-                             │  - Explicit Data Quarantine │
-                             └──────────────┬──────────────┘
-                                            │
-                                            ▼
-                             ┌─────────────────────────────┐
-                             │ SQLite Database (nifty100)  │
-                             │   21 Tables | 92 Companies  │
-                             └──────────────┬──────────────┘
-                                            │
-                       ┌────────────────────┼────────────────────┐
-                       ▼                    ▼                    ▼
-        ┌──────────────────────┐ ┌──────────────────────┐ ┌──────────────────────┐
-        │ Ratio Engine (Sprint 2)│ │ Screener Engine (Sprint 3)│ │ Clustering ML (Sprint 6)│
-        │ - 50+ Financial KPIs │ │ - 15 Dynamic Filters │ │ - K-Means (5 Groups) │
-        │ - Turnaround CAGR    │ │ - 6 Curated Presets  │ │ - Centroid Distance  │
-        │ - Capital Allocation │ │ - 92 Radar Charts    │ │ - Elbow & Heatmaps   │
-        └──────────────┬───────┘ └──────────┬───────────┘ └──────────┬───────────┘
-                       │                    │                        │
-                       └────────────────────┼────────────────────────┘
-                                            │
-               ┌────────────────────────────┴───────────────────────────┐
-               ▼                                                        ▼
-┌──────────────────────────────┐                         ┌──────────────────────────────┐
-│  Streamlit Visual Dashboard  │                         │   FastAPI REST API Service   │
-│  - 8 Interactive Screens     │                         │  - 16 Core Business Routes   │
-│  - Dynamic Filter Sliders    │                         │  - Sub-20ms Query Latency    │
-│  - Plotly Time-Series & Pies │                         │  - Live Swagger/OpenAPI Spec │
-└──────────────────────────────┘                         └──────────────────────────────┘
-               │                                                        │
-               └────────────────────────────┬───────────────────────────┘
-                                            │
-                                            ▼
-                             ┌─────────────────────────────┐
-                             │ Institutional Report Engine │
-                             │ - 92 Two-Page Tearsheets    │
-                             │ - 11 Sector PDF Summaries   │
-                             │ - Master Portfolio Summary  │
-                             └─────────────────────────────┘
-```
+The **N100 Financial Intelligence Platform** is an institutional-grade equity analysis, quantitative screening, fundamental ratio computation, machine-learning clustering, and report generation system built on 12 historical financial statement datasets for the Nifty 100 universe.
+
+The platform was built across six structured engineering sprints and is now fully integrated, tested, and certified:
+- **Sprint 1 — Data Foundation:** Ingestion of 12 source Excel files into SQLite (`nifty100.db`) with strict primary key/foreign key constraints and quarantine logging.
+- **Sprint 2 — Financial Ratio Engine:** Computation of 50+ profitability, liquidity, solvency, growth, and cash-flow ratios, capital allocation classification, and CAGR edge handling.
+- **Sprint 3 — Screener & Peer Engine:** 15-filter equity screener, 6 configured presets, winsorized composite quality scores, peer group percentile rankings, and 92 radar spider charts.
+- **Sprint 4 — Dashboard & Valuation:** 8-screen interactive Streamlit dashboard and valuation multiple analysis (P/E, P/B, EV/EBITDA, FCF yield).
+- **Sprint 5 — Intelligence, NLP & Reports:** NLP parsing of commentary notes, 12 deterministic pros/cons rules, cash flow intelligence workbook, 92 company tearsheets, 11 sector reports, and portfolio summary PDF.
+- **Sprint 6 — API, Clustering & Final QA:** 16-endpoint FastAPI REST service, 5-cluster K-Means archetypal grouping, analyst guide, and automated testing suite.
 
 ---
 
-## Key Features
+## 2. Quickstart & Build Automation
 
-### 1. Robust Data Foundation & Ingestion
-- **12 Comprehensive Datasets:** Direct ingestion from raw Excel extracts (`profitandloss`, `balancesheet`, `cashflow`, `financial_ratios`, `market_cap`, `peer_groups`, `sectors`, `stock_prices`, etc.).
-- **Dual Header Layout Engine:** Automatically differentiates between tabular files (`header=0`) and Bluestock banner workbooks (`header=1`).
-- **Relational Integrity:** SQLite schema enforcing primary keys and foreign key constraints against a 92-company master table. Non-matching source rows are isolated in quarantine tables rather than dropped.
+The platform supports GNU Make, Windows Command Prompt (`make.bat`), and PowerShell (`.\run.ps1`).
 
-### 2. Quantitative Financial Ratio Engine
-- **50+ Derived Ratios:** Net profit margin, operating margin, return on equity (ROE), return on capital employed (ROCE), debt-to-equity (D/E), interest coverage (ICR), asset turnover, and FCF conversion.
-- **CAGR Turnaround Logic:** Strictly detects negative base years and returns `TURNAROUND` instead of distorted exponential percentages.
-- **Zero-Interest Protection:** Filers with zero interest expense are categorized as `Debt Free` without division-by-zero errors.
-- **Capital Allocation Taxonomy:** Automatically maps CFO, CFI, and CFF sign permutations into 8 corporate allocation patterns (e.g., *Self-Funded Reinvestment*, *Debt/Dividend Harvesting*, *Severe Burn*).
-
-### 3. Config-Driven Equity Screener
-- **15 Filter Metrics:** Configured via YAML (`config/screener_config.yaml`) across profitability, growth, leverage, valuation, and cash generation.
-- **6 Institutional Presets:**
-  - *Quality Compounder:* ROE $\ge$ 15%, D/E $\le$ 1.0, FCF > 0, 5Y Revenue CAGR $\ge$ 10%.
-  - *Value Pick:* P/E $\le$ 20, P/B $\le$ 3.0, D/E $\le$ 2.0, Dividend Yield $\ge$ 1.0%.
-  - *Growth Accelerator:* 5Y PAT CAGR $\ge$ 20%, 5Y Sales CAGR $\ge$ 15%, D/E $\le$ 2.0.
-  - *Dividend Champion:* Dividend Yield $\ge$ 2.0%, Payout $\le$ 80%, FCF > 0.
-  - *Debt-Free Blue Chip:* D/E = 0, ROE $\ge$ 12%, Revenue $\ge$ ₹5,000 Cr.
-  - *Turnaround Watch:* 3Y Sales CAGR $\ge$ 10%, FCF > 0, Declining D/E leverage.
-- **Banking Sector Rule:** Financials are exempted from standard Debt-to-Equity caps to preserve regulatory capital accounting.
-- **92 Spider Radar Charts:** 5-axis normalized charts generated for every universe company comparing it to sector medians.
-
-### 4. Interactive Streamlit Dashboard (8 Screens)
-1. **01 Home:** Broad market overview, sector capitalization weights, top-quality rankings, and score distribution.
-2. **02 Company Profile:** Interactive financial statement history, KPI cards, and annual report links.
-3. **03 Screener:** Live multi-slider parameter filtering across 15 criteria with preset selection.
-4. **04 Peer Comparison:** Constituent benchmarking, percentile ranks, and radar chart visualizer.
-5. **05 Financial Trends:** Plotly time-series charts for revenue, PAT, and margin trajectories.
-6. **06 Sector Intelligence:** Sector breakdown, aggregate market cap, and median ROCE rankings.
-7. **07 Capital Allocation:** CFO/CFI/CFF waterfall and 8-pattern allocation archetype categorization.
-8. **08 Annual Reports:** Corporate filing catalog with direct regulatory document links.
-
-### 5. Production REST API (FastAPI)
-- **High-Performance Endpoints:** 16 business routes with sub-20ms latency serving company profiles, balance sheets, cash flows, ratio tables, peer rankings, sector metrics, and portfolio stats.
-- **Auto-Generated Documentation:** Interactive Swagger UI (`/docs`) and ReDoc (`/redoc`) with OpenAPI 3.1.0 specifications.
-
-### 6. Automated PDF Reporting Engine
-- **92 Company Tearsheets:** Standardized 2-page institutional tear sheets generated via ReportLab with zero blank pages. Page 1 presents profile data, valuation multiples, and 5-year financials; Page 2 embeds the radar chart, capital allocation breakdown, and rule-derived pros/cons.
-- **11 Sector Research Reports:** 1-page sector summaries detailing constituent rankings, median profitability, and market weights.
-- **Portfolio Summary PDF:** Executive overview of total universe fundamentals, market cap concentration, and risk metrics.
-
-### 7. Machine Learning Archetypal Clustering
-- **K-Means Model:** Segregates 92 companies into 5 distinct quantitative archetypes using normalized financial features.
-- **Artifacts:** Generates `cluster_labels.csv`, `elbow_plot.png`, `correlation_heatmap.png`, and `outlier_report.csv`.
-
----
-
-## Repository Structure
-
-```
-N100-Financial-Intelligence-Platform/
-├── config/
-│   └── screener_config.yaml             # 15 filter bounds & 6 preset definitions
-├── data/
-│   ├── raw/                             # 12 original source Excel files (Bluestock)
-│   ├── processed/                       # 12 normalized CSV data extracts
-│   └── nifty100.db                      # Canonical SQLite database (2.03 MB)
-├── db/
-│   └── schema.sql                       # Full relational database DDL schema
-├── docs/
-│   ├── acceptance_checklist.pdf         # Verified 23-deliverable acceptance sign-off
-│   ├── analyst_guide.pdf                # Quantitative user guide for research analysts
-│   ├── DELIVERABLES_VERIFICATION.md     # Granular verification matrix for all 23 items
-│   ├── FINAL_ACCEPTANCE_REPORT.md       # Final engineering sign-off report
-│   ├── FINAL_PROJECT_AUDIT.md           # Discovery audit & defect resolution record
-│   ├── KNOWN_LIMITATIONS.md             # Dataset boundaries & methodological disclosures
-│   └── openapi.json                     # OpenAPI 3.1.0 specification export
-├── notebooks/
-│   └── exploratory_queries.sql          # 10 exploratory SQL queries
-├── output/                              # Generated workbooks & analytical CSVs
-│   ├── capital_allocation.csv           # 1,155-row capital allocation patterns
-│   ├── cashflow_intelligence.xlsx       # 5-sheet cash-flow intelligence workbook
-│   ├── cluster_labels.csv               # 92-company K-Means cluster assignments
-│   ├── load_audit.csv                   # 12-table ETL load audit manifest
-│   ├── peer_comparison.xlsx             # 11-sheet peer group rankings (20 metrics)
-│   ├── pros_cons_generated.csv          # 802 rule-derived pros and cons
-│   ├── screener_output.xlsx             # 6-sheet preset screener results
-│   ├── validation_failures.csv          # 1,480 logged data quality findings
-│   └── valuation_summary.xlsx           # 92-company valuation multiples & flags
-├── reports/
-│   ├── portfolio/
-│   │   └── portfolio_summary.pdf        # Nifty 100 portfolio executive summary
-│   ├── radar_charts/                    # 92 company radar charts (.png)
-│   ├── sector/                          # 11 sector PDF tear sheets
-│   ├── tearsheets/                      # 92 two-page company PDF tear sheets
-│   └── pytest_report.html               # Self-contained pytest execution report
-├── src/
-│   ├── analytics/                       # CAGR, ratios, valuation, clustering
-│   ├── api/                             # FastAPI application & route controllers
-│   ├── dashboard/                       # Streamlit 8-screen multipage application
-│   ├── etl/                             # Ingestion loader, normalizer, validator
-│   ├── nlp/                             # Financial statement parser & pros/cons rules
-│   ├── reports/                         # ReportLab PDF tearsheet generators
-│   └── screener/                        # Screener engine, peer rankings, radar plots
-├── tests/                               # 201 automated unit, integration, & regression tests
-│   ├── api/                             # FastAPI endpoint verification
-│   ├── clustering/                      # K-Means clustering assertions
-│   ├── dashboard/                       # Streamlit UI & valuation tests
-│   ├── etl/                             # Data ingestion & normalization tests
-│   ├── kpi/                             # Mathematical ratio & edge case tests
-│   ├── nlp/                             # NLP parsing & pros/cons rule tests
-│   ├── reports/                         # PDF page count & visual spotcheck tests
-│   └── screener/                        # Screener filters & preset result tests
-├── Makefile                             # GNU Make build runner
-├── make.bat                             # Windows CMD build runner
-├── pytest.ini                           # Test configuration & module path settings
-├── README.md                            # Project documentation
-├── requirements.txt                     # Pinned project dependencies
-└── run.ps1                              # Windows PowerShell build runner
-```
-
----
-
-## Quickstart
-
-### Prerequisites
-- Python 3.10+ (tested on Python 3.12.10)
-- Git
-
-### 1. Clone & Set Up Environment
+### 2.1 Using Make (Linux / macOS / Windows with Make)
 ```bash
-git clone https://github.com/Raghunath2604/N100-Financial-Intelligence-Platform.git
-cd N100-Financial-Intelligence-Platform
-
-# Create and activate virtual environment
-python -m venv .venv
-source .venv/bin/activate        # Linux/macOS
-# or: .venv\Scripts\activate     # Windows PowerShell
+make install     # Install pinned dependencies
+make load        # Run ETL ingestion and build SQLite database
+make ratios      # Compute financial ratios & capital allocation
+make screener    # Run equity screener presets and radar charts
+make clustering  # Execute K-Means clustering pipeline
+make report      # Generate PDF tearsheets, sector reports, portfolio PDF
+make test        # Run 201-test pytest suite and generate reports/pytest_report.html
+make dashboard   # Start Streamlit dashboard on localhost:8501
+make api         # Start FastAPI server on localhost:8000
+make clean       # Remove Python cache files safely (never deletes database)
 ```
 
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
+### 2.2 Using PowerShell (Windows)
+```powershell
+.\run.ps1 load
+.\run.ps1 ratios
+.\run.ps1 screener
+.\run.ps1 clustering
+.\run.ps1 report
+.\run.ps1 test
+.\run.ps1 dashboard
+.\run.ps1 api
+.\run.ps1 clean
 ```
 
-### 3. Build & Run
-You can run any pipeline stage using **Make**, **PowerShell**, or **CMD**:
-
-| Command | Action |
-|---|---|
-| `make load` (or `.\run.ps1 load`) | Ingest raw Excel workbooks into SQLite database |
-| `make ratios` (or `.\run.ps1 ratios`) | Compute 50+ financial ratios & capital allocation |
-| `make screener` (or `.\run.ps1 screener`) | Execute screener presets & generate 92 radar charts |
-| `make clustering` (or `.\run.ps1 clustering`) | Execute K-Means clustering & generate QA plots |
-| `make report` (or `.\run.ps1 report`) | Generate 92 PDF tearsheets, 11 sector reports, portfolio PDF |
-| `make test` (or `.\run.ps1 test`) | Run full 201-test suite with HTML report generation |
-| `make dashboard` (or `.\run.ps1 dashboard`) | Launch Streamlit visual dashboard on `localhost:8501` |
-| `make api` (or `.\run.ps1 api`) | Launch FastAPI REST service on `localhost:8000` |
-| `make clean` (or `.\run.ps1 clean`) | Remove cache files safely (preserves database and reports) |
+### 2.3 Using Windows Command Prompt (CMD)
+```cmd
+make.bat load
+make.bat ratios
+make.bat screener
+make.bat clustering
+make.bat report
+make.bat test
+make.bat dashboard
+make.bat api
+make.bat clean
+```
 
 ---
 
-## FastAPI REST Service
+## 3. Project Deliverables Matrix (23 Core Deliverables)
 
-Start the API:
+| ID | Deliverable | Expected & Canonical Location | Size | Verification Status |
+|---|---|---|---|---|
+| **D-01** | `nifty100.db` | `data/nifty100.db` | 2.03 MB | **DONE AND VERIFIED** |
+| **D-02** | `load_audit.csv` | `output/load_audit.csv` | 624 B | **DONE AND VERIFIED** |
+| **D-03** | `validation_failures.csv` | `output/validation_failures.csv` | 184 KB | **DONE AND VERIFIED** |
+| **D-04** | `exploratory_queries.sql` | `notebooks/exploratory_queries.sql` | 765 B | **DONE AND VERIFIED** |
+| **D-05** | `financial_ratios table` | `data/nifty100.db` | 2.03 MB | **DONE AND VERIFIED** |
+| **D-06** | `capital_allocation.csv` | `output/capital_allocation.csv` | 82 KB | **DONE AND VERIFIED** |
+| **D-07** | `screener_output.xlsx` | `output/screener_output.xlsx` | 128 KB | **DONE AND VERIFIED** |
+| **D-08** | `screener_config.yaml` | `config/screener_config.yaml` | 516 B | **DONE AND VERIFIED** |
+| **D-09** | `peer_comparison.xlsx` | `output/peer_comparison.xlsx` | 36 KB | **DONE AND VERIFIED** |
+| **D-10** | 92 Radar Charts | `reports/radar_charts/` | 92 PNGs | **DONE AND VERIFIED** |
+| **D-11** | Streamlit Dashboard | `src/dashboard/app.py` | 8 screens | **DONE AND VERIFIED** |
+| **D-12** | `valuation_summary.xlsx` | `output/valuation_summary.xlsx` | 19 KB | **DONE AND VERIFIED** |
+| **D-13** | `cashflow_intelligence.xlsx` | `output/cashflow_intelligence.xlsx` | 136 KB | **DONE AND VERIFIED** |
+| **D-14** | `pros_cons_generated.csv` | `output/pros_cons_generated.csv` | 128 KB | **DONE AND VERIFIED** |
+| **D-15** | `analysis_parsed.csv` | `output/analysis_parsed.csv` | 3.3 KB | **DONE AND VERIFIED** |
+| **D-16** | 92 Company Tearsheets | `reports/tearsheets/` | 92 PDFs | **DONE AND VERIFIED** |
+| **D-17** | 11 Sector Reports | `reports/sector/` | 11 PDFs | **DONE AND VERIFIED** |
+| **D-18** | Portfolio Summary PDF | `reports/portfolio/` | 1 PDF | **DONE AND VERIFIED** |
+| **D-19** | `cluster_labels.csv` | `output/cluster_labels.csv` | 4.6 KB | **DONE AND VERIFIED** |
+| **D-20** | FastAPI Server (16 Endpoints) | `src/api/main.py` | 16 routes | **DONE AND VERIFIED** |
+| **D-21** | `pytest_report.html` | `reports/pytest_report.html` | 177 KB | **DONE AND VERIFIED** |
+| **D-22** | `analyst_guide.pdf` | `docs/analyst_guide.pdf` | 3.0 KB | **DONE AND VERIFIED** |
+| **D-23** | `acceptance_checklist.pdf` | `docs/acceptance_checklist.pdf` | 4.5 KB | **DONE AND VERIFIED** |
+
+---
+
+## 4. Key Accounting & Financial Data Rules
+
+1. **Workbook Header Layout:** The 7 Bluestock financial workbooks (`analysis.xlsx`, `balancesheet.xlsx`, `cashflow.xlsx`, `companies.xlsx`, `documents.xlsx`, `profitandloss.xlsx`, `prosandcons.xlsx`) contain title banners at row 0 and are ingested with `pd.read_excel(path, header=1)`. The 5 tabular datasets (`financial_ratios.xlsx`, `market_cap.xlsx`, `peer_groups.xlsx`, `sectors.xlsx`, `stock_prices.xlsx`) are ingested with `header=0`.
+2. **Identifier Normalization:** All `company_id` and ticker fields are normalized to trimmed uppercase strings prior to any database joins or table writes.
+3. **Monetary Unit Consistency:** All monetary figures are standardized in **INR Crore**.
+4. **Financial Sector D/E Exclusion:** Banks and financial institutions are exempted from universal Debt-to-Equity caps in screener presets, reflecting regulatory capital accounting.
+5. **Turnaround CAGR:** Negative base years return `TURNAROUND` rather than misleading standard exponential CAGRs.
+6. **Zero Interest ICR:** Companies with zero interest expense are classified as `Debt Free` rather than throwing division-by-zero errors.
+7. **Simulated Data Transparency:** Market prices and market cap snapshots are explicitly labeled as **SIMULATED** across dashboards and tearsheets.
+
+---
+
+## 5. Live Services Verification
+
+### FastAPI REST Service
+Start the server:
 ```bash
 uvicorn src.api.main:app --host 127.0.0.1 --port 8000
 ```
-Open **`http://127.0.0.1:8000/docs`** in your browser for interactive Swagger API documentation.
+- Interactive Swagger documentation: `http://127.0.0.1:8000/docs`
+- OpenAPI Specification: `http://127.0.0.1:8000/openapi.json`
+- 16 core business endpoints covering company fundamentals, financial statements, ratios, screener, sectors, peers, valuation, documents, and portfolio stats.
 
-### Core Endpoints
-
-| Method | Route | Description |
-|---|---|---|
-| `GET` | `/health` | Service health status check |
-| `GET` | `/companies` | Paginated list of master companies (`limit`, `offset`) |
-| `GET` | `/companies/{company_id}` | Detailed company profile and about data |
-| `GET` | `/companies/{company_id}/profit-loss` | Historical Profit & Loss statement |
-| `GET` | `/companies/{company_id}/balance-sheet` | Historical Balance Sheet statement |
-| `GET` | `/companies/{company_id}/cash-flow` | Historical Cash Flow statement |
-| `GET` | `/companies/{company_id}/ratios` | Historical calculated financial ratios |
-| `GET` | `/companies/{company_id}/tearsheet` | Stream/download company 2-page PDF tearsheet |
-| `GET` | `/screener` | Query equity screener with dynamic parameter filters |
-| `GET` | `/sectors` | Aggregate list of broad sectors and constituent counts |
-| `GET` | `/sectors/{sector_name}/companies` | Companies belonging to a specific sector |
-| `GET` | `/peers/{company_id}` | Peer group members for a company |
-| `GET` | `/peers/{company_id}/comparison` | Fundamental metrics comparison against peers |
-| `GET` | `/valuation/market-cap-history/{company_id}` | Historical market cap and valuation multiples |
-| `GET` | `/portfolio/stats` | Aggregate portfolio statistics across the universe |
-| `GET` | `/documents/{company_id}` | Annual report filing repository links |
-
----
-
-## Streamlit Intelligence Dashboard
-
+### Streamlit Intelligence Dashboard
 Launch the dashboard:
 ```bash
 streamlit run src/dashboard/app.py --server.port 8501
 ```
-Open **`http://localhost:8501`** to interact with the platform across all 8 screens:
-- Filter companies interactively with slider thresholds.
-- Toggle between historical fiscal years (2019–2024).
-- Inspect high-resolution Plotly trend charts, peer percentiles, and capital allocation waterfall distributions.
+Navigate via the sidebar across 8 screens:
+- **01 Home:** Market intelligence overview, sector distribution, top quality ranking.
+- **02 Company Profile:** Interactive fundamental history, financial KPI cards, and annual report filings.
+- **03 Screener:** Dynamic parameter filtering across 15 criteria with preset selection.
+- **04 Peer Comparison:** Sector percentile distribution and 5-axis radar chart visualizer.
+- **05 Financial Trends:** Time-series analysis of revenues, PAT, and margin trajectories.
+- **06 Sector Intelligence:** Sector composition, aggregate market cap, and median ROCE rankings.
+- **07 Capital Allocation:** CFO/CFI/CFF waterfall and 8-pattern allocation archetype categorization.
+- **08 Annual Reports:** Document repository with direct links to regulatory filings.
 
 ---
 
-## Test Suite & QA
+## 6. Automated Testing Suite
 
-The repository includes a comprehensive 201-test automated suite ensuring total mathematical and functional consistency.
-
+Run the full pytest suite with HTML report generation:
 ```bash
 python -m pytest --html=reports/pytest_report.html --self-contained-html -v
 ```
-
-```
-============================= test session starts =============================
-platform win32 -- Python 3.12.10, pytest-9.1.1, pluggy-1.6.0
-collected 201 items
-
-tests/api/test_api.py ....................                               [  9%]
-tests/clustering/test_clustering.py ..........                           [ 14%]
-tests/dashboard/test_sprint4.py ................                         [ 22%]
-tests/etl/test_integration.py ...                                        [ 23%]
-tests/etl/test_normalise_ticker.py ...............                       [ 31%]
-tests/etl/test_normalise_year.py ......................                  [ 42%]
-tests/kpi/test_engine_integration.py ...                                 [ 43%]
-tests/kpi/test_financial_formula_rules.py ................               [ 51%]
-tests/kpi/test_formula_engine.py .................                       [ 60%]
-tests/nlp/test_sprint5_nlp.py ........                                   [ 64%]
-tests/reports/test_sprint5_reports.py ...........                        [ 69%]
-tests/screener/test_screener_peer.py .........................           [ 82%]
-tests/screener/test_sprint3_acceptance.py ........                       [100%]
-
-====================== 201 passed, 2 warnings in 40.07s =======================
-```
-
-- **Test Pass Rate:** **100% (201 passed, 0 failed)**
-- **Report Location:** [`reports/pytest_report.html`](reports/pytest_report.html)
+- **Test Count:** 201 tests across 8 test modules.
+- **Pass Rate:** 100% (201 passed, 0 failed).
+- **Report Location:** `reports/pytest_report.html`.
 
 ---
 
-## Methodological Disclosures & Data Rules
+## 7. Documentation Index
 
-1. **Source Lineage:** Based on historical extracts for 92 master companies supplied by Bluestock Fintech. Delisted tickers and non-matching entries are strictly quarantined in dedicated database tables.
-2. **No Data Fabrication:** Missing historical statement years are never populated with arbitrary or synthetic figures.
-3. **Turnaround Accounting:** Companies transitioning from negative base years to positive profits receive an explicit `TURNAROUND` label rather than distorted standard CAGRs.
-4. **Financials Leverage Accounting:** Banking and financial institutions are exempted from universal D/E screener caps in adherence to financial accounting conventions.
-5. **Simulated Multiples:** Market capitalization and price metrics are historical snapshots and labeled as **SIMULATED** across reports.
-
----
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+- `docs/FINAL_ACCEPTANCE_REPORT.md`: Comprehensive engineering sign-off report.
+- `docs/FINAL_PROJECT_AUDIT.md`: Complete Phase 1 discovery audit and defect resolution history.
+- `docs/DELIVERABLES_VERIFICATION.md`: Evidence and verification standard for all 23 deliverables.
+- `docs/KNOWN_LIMITATIONS.md`: Dataset boundaries, fiscal calendar nuances, and simulation details.
+- `docs/analyst_guide.pdf`: Quantitative user guide for financial analysts.
+- `docs/acceptance_checklist.pdf`: Executive acceptance matrix sign-off document.

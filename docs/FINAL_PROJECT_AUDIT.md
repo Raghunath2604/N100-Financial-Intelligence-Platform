@@ -21,7 +21,7 @@ The repository represents a 6-sprint implementation designed to ingest, validate
    - `acceptance_checklist.pdf` was missing (only `docs/acceptance_checklist.md` was present).
 3. **Broken Import in Screener Runner:** `src/screener/run_screener.py` used `from engine import ...` which failed when executed as a module (`python -m src.screener.run_screener`) from the project root.
 4. **Dashboard Database Resolution & Serialization:** `src/dashboard/db.py` used relative paths that failed when invoked outside the subfolder, which caused `get_universe()` to silently set composite quality scores to `pd.NA`, triggering a downstream Plotly JSON serialization crash (`TypeError: Type is not JSON serializable: NAType`) in `_01_home.py`.
-5. **Build Automation:** The existing `Makefile` was incomplete: `make test` executed only 3 ETL tests rather than the full suite; `make report`, `make dashboard`, and `make api` were absent; and `make clean` contained an unsafe rule deleting final CSV deliverables contrary to engineering requirements.
+5. **Build Automation:** The existing `Makefile` was incomplete: `make test` executed only 3 ETL tests rather than the full suite; `make report`, `make dashboard`, and `make api` were absent; and `make clean` contained an unsafe rule deleting final CSV deliverables.
 6. **Sprint Packaging:** The original six sprint packages existed only as compressed ZIP archives in `sprint_archives/` rather than unpacked sibling directories in the integrated repository.
 
 All identified defects have been repaired, verified, and certified.
