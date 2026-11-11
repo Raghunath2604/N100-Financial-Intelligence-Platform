@@ -1,0 +1,7 @@
+ticker,company_found,company_name,profitandloss_rows,profitandloss_min_year,profitandloss_max_year,balancesheet_rows,balancesheet_min_year,balancesheet_max_year,cashflow_rows,cashflow_min_year,cashflow_max_year,sector_rows,peer_rows
+TCS,True,Tata Consultancy Services Ltd,13,2013-03,2024-03,13,2013-03,2024-09,24,2013-03,2024-03,1,1
+HDFCBANK,True,HDFC Bank Ltd,13,2013-03,2024-03,12,2013-03,2024-03,12,2013-03,2024-03,1,1
+RELIANCE,True,"Reliance Industries Ltd
+",13,2013-03,2024-03,13,2013-03,2024-09,12,2013-03,2024-03,1,1
+INFY,True,Infosys Ltd,13,2013-03,2024-03,13,2013-03,2024-09,12,2013-03,2024-03,1,1
+SUNPHARMA,True,Sun Pharmaceuticals Industries Ltd,13,2013-03,2024-03,13,2013-03,2024-09,12,2013-03,2024-03,1,1

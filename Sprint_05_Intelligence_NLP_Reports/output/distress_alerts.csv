@@ -1,0 +1,110 @@
+company_id,company_name,broad_sector,alert_code,rule,alert,severity
+ABB,Abbott India Ltd,Industrials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+ADANIENT,Adani Enterprises Ltd,Industrials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+ADANIGREEN,Adani Green Energy Ltd,Energy,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+ADANIGREEN,Adani Green Energy Ltd,Energy,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+ADANIPOWER,Adani Power Ltd,Energy,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+AXISBANK,Axis Bank Ltd,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+AXISBANK,Axis Bank Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+BAJFINANCE,Bajaj Finance Ltd,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+BAJFINANCE,Bajaj Finance Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+BAJFINANCE,Bajaj Finance Ltd,Financials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+BANKBARODA,Bank of Baroda,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+BANKBARODA,Bank of Baroda,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+BEL,Bharat Electronics Ltd,Industrials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+BPCL,Bharat Petroleum Corporation Ltd,Energy,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+CANBK,Canara Bank,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+CANBK,Canara Bank,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+GRASIM,Grasim Industries Ltd,Industrials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+HAL,Hindustan Aeronautics Ltd,Industrials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+HDFCBANK,HDFC Bank Ltd,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+HDFCBANK,HDFC Bank Ltd,Financials,LOW_ICR,Interest coverage < 1.5x,Limited reported interest coverage,Medium
+HDFCBANK,HDFC Bank Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+HDFCBANK,HDFC Bank Ltd,Financials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+HINDALCO,Hindalco Industries Ltd,Materials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+ICICIBANK,ICICI Bank Ltd,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+ICICIBANK,ICICI Bank Ltd,Financials,LOW_ICR,Interest coverage < 1.5x,Limited reported interest coverage,Medium
+ICICIBANK,ICICI Bank Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+INDUSINDBK,IndusInd Bank Ltd,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+INDUSINDBK,IndusInd Bank Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+INDUSINDBK,IndusInd Bank Ltd,Financials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+IRFC,Indian Railway Finance Corporation Ltd,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+IRFC,Indian Railway Finance Corporation Ltd,Financials,LOW_ICR,Interest coverage < 1.5x,Limited reported interest coverage,Medium
+IRFC,Indian Railway Finance Corporation Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+IRFC,Indian Railway Finance Corporation Ltd,Financials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+JSWSTEEL,JSW Steel Ltd,Materials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,LOW_ICR,Interest coverage < 1.5x,Limited reported interest coverage,Medium
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+LODHA,Macrotech Developers Ltd,Real Estate,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+LT,Larsen & Toubro Ltd,Industrials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+LT,Larsen & Toubro Ltd,Industrials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+NAUKRI,Info Edge (India) Ltd,Communication Services,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+NAUKRI,Info Edge (India) Ltd,Communication Services,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+NTPC,NTPC Ltd,Energy,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+PFC,Power Finance Corporation Ltd,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+PFC,Power Finance Corporation Ltd,Financials,LOW_ICR,Interest coverage < 1.5x,Limited reported interest coverage,Medium
+PFC,Power Finance Corporation Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+PFC,Power Finance Corporation Ltd,Financials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+PNB,Punjab National Bank,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+PNB,Punjab National Bank,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+POWERGRID,Power Grid Corporation of India Ltd,Energy,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+RECLTD,REC Ltd,Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+RECLTD,REC Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+RECLTD,REC Ltd,Financials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+RELIANCE,"Reliance Industries Ltd
+",Energy,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+SBILIFE,SBI Life Insurance Company Ltd,Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,LOW_ICR,Interest coverage < 1.5x,Limited reported interest coverage,Medium
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,WEAK_CASH_CONVERSION,Median CFO/PAT < 0.5,Weak operating cash conversion relative to profit,Medium
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+TATAPOWER,"Tata Power Company Ltd
+",Energy,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+TATASTEEL,"Tata Steel Ltd
+",Materials,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+TRENT,Trent Ltd,Consumer Discretionary,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,HIGH_LEVERAGE,Debt/equity > 2,High reported leverage,High
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,REPEATED_NEGATIVE_FCF,Negative FCF in at least 3 annual periods,Repeated free-cash-flow pressure,Medium
